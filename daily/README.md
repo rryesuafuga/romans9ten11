@@ -1,8 +1,10 @@
 # daily/
 
-One file per run, named `YYYY-MM-DD.md` by the run date in Uganda time (EAT,
-UTC+3). The routine runs at 03:07 EAT, so `2026-10-04.md` holds the news that
-broke in roughly the 30 hours before 03:07 EAT on 4 October 2026.
+One file per day, named `YYYY-MM-DD.md` by the date in Uganda (EAT, UTC+3,
+computed as `date -u -d '+3 hours' +%F`). The routine runs at 03:07 EAT, so
+`2026-10-04.md` holds the news that broke in roughly the 30 hours before
+03:07 EAT on 4 October 2026. The matching prayer guide is
+`prayer/2026-10-04.md` (plus `.docx` and `.pdf`).
 
 Rules the routine follows when writing a file here:
 
@@ -22,8 +24,10 @@ Rules the routine follows when writing a file here:
 - **Every file ends with a `## Run report`** whose first line is
   `Run complete: N new items · sources ok X/Y · failed: …` or
   `Run FAILED: reason`. A missing line means the run died part-way.
-- **Re-running on the same date rewrites that date's file** rather than
-  appending a second copy.
+- **A second run on the same Uganda date merges** into that date's file: keep
+  every existing bullet, add the new stories in the right sections, and add a
+  second line to the run report. `seen.json` already holds the first run's
+  stories, so rewriting would lose them.
 
 ## Template
 
