@@ -24,7 +24,7 @@ week of runs.
 | Schedule | `CRON_TZ=Africa/Kampala 7 3 * * *` (daily 03:07 EAT; Uganda has no daylight saving) |
 | Each run | a fresh cloud session in the **Default** environment |
 | Prompt | short; it tells the run to clone the repo and follow `routine/PROMPT.md` |
-| Model | the account default for routines (Sonnet 5.5 on the first run) |
+| Model | Opus 5.5 (`claude-opus-5-5`), used by every new run |
 | Connectors | none stored; the run needs only git and web search |
 
 It was created from a Claude Code session, so it appears in your routines list
