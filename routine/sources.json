@@ -1,0 +1,53 @@
+{
+  "_comment": "Inputs for scripts/fetch_candidates.py. Google News RSS and GDELT need no API key. Feed URLs marked unverified could not be reached from the sandbox that wrote this file (network policy), so confirm them on the first 'Run now' and remove any that keep failing. 'filter': true applies relevance_terms to broad feeds; dedicated Israeli/Jewish outlets are taken whole and triaged by Claude.",
+  "relevance_terms": [
+    "israel", "israeli", "jerusalem", "tel aviv", "gaza", "west bank", "judea", "samaria",
+    "jewish", "jew ", "jews", "judaism", "antisemit", "anti-semit", "synagogue", "rabbi",
+    "holocaust", "zionis", "diaspora", "idf", "knesset", "netanyahu", "hamas", "hezbollah",
+    "mossad", "aliyah", "kibbutz", "yeshiva", "chabad", "kosher", "shoah"
+  ],
+  "sources": [
+    { "name": "Google News: Israel (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=Israel+when:1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News: Jewish OR Jews (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=(Jewish+OR+Jews)+when:1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News: antisemitism (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=antisemitism+when:1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News: Jewish diaspora (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=%22Jewish+diaspora%22+OR+%22Jewish+community%22+when:1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News: Judea and Samaria / West Bank settlers (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=(%22Judea+and+Samaria%22+OR+%22West+Bank%22+settlers)+when:1d&hl=en-US&gl=US&ceid=US:en" },
+    { "name": "Google News: Israel Uganda / Israel Africa (24h)", "type": "rss", "filter": false,
+      "url": "https://news.google.com/rss/search?q=(Israel+Uganda)+OR+(Israel+Africa+relations)+when:1d&hl=en-US&gl=US&ceid=US:en" },
+
+    { "name": "GDELT: Israel / Jewish, all languages", "type": "gdelt", "maxrecords": 75,
+      "query": "(israel OR israeli OR jewish OR antisemitism OR \"jewish diaspora\")" },
+    { "name": "GDELT: antisemitism / synagogue incidents", "type": "gdelt", "maxrecords": 50,
+      "query": "(antisemitism OR antisemitic OR synagogue OR \"jewish community\")" },
+
+    { "name": "Times of Israel", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.timesofisrael.com/feed/" },
+    { "name": "Jerusalem Post", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx" },
+    { "name": "Haaretz (English)", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines" },
+    { "name": "Israel Hayom", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.israelhayom.com/feed/" },
+    { "name": "Ynetnews", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.ynetnews.com/Integration/StoryRss3082.xml" },
+    { "name": "+972 Magazine", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.972mag.com/feed/" },
+    { "name": "JTA (Jewish Telegraphic Agency)", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.jta.org/feed" },
+    { "name": "The Forward", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://forward.com/feed/" },
+    { "name": "Jewish News (UK)", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.jewishnews.co.uk/feed/" },
+    { "name": "BBC Middle East", "type": "rss", "filter": true, "unverified": true,
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
+    { "name": "Al Jazeera (all)", "type": "rss", "filter": true, "unverified": true,
+      "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "name": "The Guardian: Israel", "type": "rss", "filter": false, "unverified": true,
+      "url": "https://www.theguardian.com/world/israel/rss" }
+  ]
+}

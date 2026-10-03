@@ -1,0 +1,4 @@
+# per-run scratch written by scripts/fetch_candidates.py
+.brief/
+__pycache__/
+*.pyc
