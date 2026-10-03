@@ -29,7 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-_No runs yet. The routine replaces this block on its first run._
+- Israel's 27 October Knesset election campaign is under way (Haaretz, JPost).
+- Gaza: the IDF reported a strike on Hamas's Gaza leader; Palestinian media reported civilian deaths.
+- Lebanon: exchanges between the IDF and Hezbollah continue despite a ceasefire (Times of Israel, JNS).
+- Iran war: reports of US national-security consultations at Camp David.
+- Judea and Samaria: reports of settler violence around the olive harvest (Al Jazeera, JPost).
+- Diaspora: Simchat Torah observed; Belleville, Ontario synagogue targeted with antisemitic flyers after a Yom Kippur shooting.
+- Uganda: its military chief made public statements of support for Israel.
+_Updated 2026-10-04 from daily briefs 2026-10-04 to 2026-10-04._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

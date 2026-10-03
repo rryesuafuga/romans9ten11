@@ -1,5 +1,55 @@
 {
  "version": 1,
- "updated": null,
- "items": []
+ "updated": "2026-10-04",
+ "items": [
+  {
+   "url": "https://thecjn.ca/news/antisemitic-flyers-found-at-belleville-synagogue-nearby-homes-after-yom-kippur-attack",
+   "title": "Antisemitic flyers found at Belleville, Ontario synagogue and homes",
+   "title_key": "3def83d1ac63ac63",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://jpost.com/middle-east/iran-news/2026-10-03/live-updates-910441",
+   "title": "IDF says it struck Hamas Gaza leader Ali al-Amoudi",
+   "title_key": "50b3b21c72c35a46",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://jpost.com/israel-news/article-910470",
+   "title": "Simchat Torah gathering at Nova memorial draws criticism",
+   "title_key": "67bb73aa9afb2da4",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://jpost.com/israel-news/article-910035",
+   "title": "Clashes between settlers and Palestinians reported during Sukkot, including a fatal shooting in Yasuf",
+   "title_key": "040a2d2f1455e7ae",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://jns.org/news/israel-news/uganda-is-willing-to-fight-alongside-israel-military-chief-says",
+   "title": "Uganda's military chief says Uganda could join the war on Israel's side",
+   "title_key": "b45cc02acef0f3b2",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections",
+   "title": "Israel heads to 27 October Knesset election; Otzma Yehudit names ministry demands",
+   "title_key": "6097c58e3877e9ae",
+   "source": "",
+   "first_seen": "2026-10-04"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank",
+   "title": "Settler attacks on Palestinian olive harvesters reported in several West Bank areas",
+   "title_key": "026d3bbfc7b4cc07",
+   "source": "",
+   "first_seen": "2026-10-04"
+  }
+ ]
 }
