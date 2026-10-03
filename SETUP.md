@@ -20,21 +20,36 @@ week of runs.
 | Setting | Value |
 |---|---|
 | Name | Israel daily news brief + prayer guide (03:07 EAT) |
-| Routine ID | `trig_01VvF7aCrQybyfTd9kGS6P8x` |
+| Routine ID | `trig_01QgPz7yXwnDBAADVEVqdqGx` |
 | Schedule | `CRON_TZ=Africa/Kampala 7 3 * * *` (daily 03:07 EAT; Uganda has no daylight saving) |
-| Each run | a fresh cloud session in the **Default** environment |
-| Prompt | short; it tells the run to clone the repo and follow `routine/PROMPT.md` |
-| Model | Sonnet 5.5 (`claude-sonnet-5-5`), chosen to keep daily usage economical; change it in the routines list if you want a stronger model |
-| Connectors | none stored; the run needs only git and web search |
+| How a run starts | The routine wakes the **dispatcher** session, which starts one fresh **worker** session with this repository attached and push access to `main` |
+| Dispatcher | session "romans9ten11 daily dispatcher (do not archive)", Haiku 4.5, only starts the worker |
+| Worker | session "romans9ten11 daily brief + prayer guide", Sonnet 5.5 (chosen to keep daily usage economical), follows `routine/PROMPT.md` |
+| Environment | **Default** |
+| Notifications | the worker sends its final `Run complete` / `Run FAILED` line as a push notification |
 
-It was created from a Claude Code session, so it appears in your routines list
-at <https://claude.ai/code/routines>. From there you can pause it, press
-**Run now**, change the time, or change the model.
+**Why a dispatcher.** A routine created from a Claude Code session cannot
+attach a repository, so its runs can read the public repo but cannot push.
+The first test run on 3 October hit exactly that (`403 ... not in this
+session's authorized repository set`). A session started with
+`create_session` can attach the repository with push access to `main`, and
+the dispatcher does that each day. The second test run, started the same way,
+pushed the 4 October brief and guide to `main`.
+
+**Do not archive or delete the dispatcher session.** The routine delivers its
+daily message to it. If it is gone, ask Claude to create a new dispatcher and
+point the routine at it, or create the routine from
+<https://claude.ai/code/routines> with this repository attached and the
+worker prompt from the routine.
+
+You can pause the routine, press **Run now**, or change the time from your
+routines list at <https://claude.ai/code/routines>. The worker's model is set
+inside the routine's prompt (`model: claude-sonnet-5-5`); change that line to
+use a different model.
 
 To change what a run does, edit `routine/PROMPT.md` (the full instructions),
 `prayer/README.md` (how prayers are written) or `daily/README.md` (brief
-format) and push to `main`. The next run picks up the change. You do not need
-to edit the routine itself.
+format) and push to `main`. The next run picks up the change.
 
 ## What is in the repository
 
@@ -91,8 +106,9 @@ working.
 
 ## Checking a run
 
-- Each run is a session named after the routine in your session list, and
-  you get a push notification when it finishes.
+- Each run is a worker session named "romans9ten11 daily brief + prayer
+  guide" in your session list, and it sends a push notification when it
+  finishes.
 - A green status only means the session started and exited cleanly. Read the
   last line of the run: `Run complete: …` or `Run FAILED: …`.
 - On GitHub, `main` should gain two commits per day:
@@ -118,7 +134,8 @@ working.
 |---|---|---|
 | Run report says every source failed | Default environment still Trusted | Do the network step above |
 | One or two feeds fail every day | Feed moved or blocks bots | Remove or replace it in `routine/sources.json` |
-| No commits, run says clone or push refused | Fresh session could not get repository access | Reconnect GitHub at claude.ai; if it persists, recreate the routine from claude.ai/code/routines with this repository attached and the same prompt |
+| No commits, run says push refused (403) | Worker started without the repository attached | Check the dispatcher's reply for that day; the worker must be started with `source_url` and `outcome_branch: main`. Reconnect GitHub at claude.ai if access lapsed |
+| No worker session at all | Dispatcher archived, or it did not call `create_session` | Read the dispatcher session's last reply; if it is archived, ask Claude to recreate it and repoint the routine |
 | Brief committed, guide missing | Phase B failed; the run's last line says why | Re-run with Run now; the brief merges and the guide is rebuilt |
 | Guide fails validation repeatedly | Rules too tight for a quiet news day | The script explains each problem; adjust `prayer/README.md` or the script's limits |
 | Work landed on a `claude/` branch | Prompt was edited and lost the main-branch rule | Restore the routine prompt; merge the branch |
