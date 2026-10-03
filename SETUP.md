@@ -1,62 +1,70 @@
-# Running the daily brief as a Claude Code routine
+# Daily news brief and prayer guide: how it runs
 
-This repository is set up so that a **Claude Code routine** (Anthropic's cloud,
-no computer of yours switched on) runs every day at **03:07 Uganda time
-(EAT, UTC+3), which is 00:07 UTC**, gathers the last ~30 hours of world news on
-Israel, Jews in Israel, Judea and Samaria and the Jewish diaspora, and commits
-a dated brief plus a rolling 7-day summary to `main`.
+A **Claude Code routine** in Anthropic's cloud runs every day at
+**03:07 Uganda time (00:07 UTC)**, with no computer of yours switched on. Each
+run:
 
-Status of the feature (checked against the Claude Code docs on 3 October 2026):
-routines are a *research preview*, available on Pro, Max, Team and Enterprise,
-billed against your subscription like any Claude Code session. Behaviour and
-limits may change, so expect to watch the first week of runs.
+1. gathers the last ~30 hours of world news on Israel, Jews in Israel, Judea
+   and Samaria and Jewish diaspora communities, and writes `daily/YYYY-MM-DD.md`;
+2. writes a 10-point prayer guide to the Lord Jesus from that news, with a
+   King James Version passage and a prayer for each point, as
+   `prayer/YYYY-MM-DD.md`, `.docx` and `.pdf`;
+3. commits both straight to `main` (brief first, then guide).
 
-## What is in the repo
+Routines are a research preview, billed to your claude.ai subscription like
+any Claude Code session. Behaviour and limits may change, so watch the first
+week of runs.
+
+## The routine
+
+| Setting | Value |
+|---|---|
+| Name | Israel daily news brief + prayer guide (03:07 EAT) |
+| Routine ID | `trig_01VvF7aCrQybyfTd9kGS6P8x` |
+| Schedule | `CRON_TZ=Africa/Kampala 7 3 * * *` (daily 03:07 EAT; Uganda has no daylight saving) |
+| Each run | a fresh cloud session in the **Default** environment |
+| Prompt | short; it tells the run to clone the repo and follow `routine/PROMPT.md` |
+| Model | the account default for routines (Sonnet 5.5 on the first run) |
+| Connectors | none stored; the run needs only git and web search |
+
+It was created from a Claude Code session, so it appears in your routines list
+at <https://claude.ai/code/routines>. From there you can pause it, press
+**Run now**, change the time, or change the model.
+
+To change what a run does, edit `routine/PROMPT.md` (the full instructions),
+`prayer/README.md` (how prayers are written) or `daily/README.md` (brief
+format) and push to `main`. The next run picks up the change. You do not need
+to edit the routine itself.
+
+## What is in the repository
 
 | Path | Role |
 |---|---|
-| `routine/PROMPT.md` | The routine's instructions. Paste the *short prompt* into the routine; the run reads the full text from the repo. |
-| `routine/sources.json` | Google News RSS queries, GDELT queries and curated outlet feeds the fetch script pulls. |
-| `scripts/fetch_candidates.py` | Pulls every source, filters to the time window, drops stories already in `seen.json`, writes `.brief/candidates.json` for Claude to triage. Standard library only. |
-| `scripts/mark_seen.py` | After the brief is written, records its links in `seen.json` (pruned to 60 days). |
-| `daily/README.md` | Format rules and template for a daily file. |
-| `daily/YYYY-MM-DD.md` | One brief per run, written by the routine. |
-| `seen.json` | URLs and headline fingerprints already covered. |
-| `README.md` | Carries the rolling summary between two HTML comment markers; the routine rewrites only that block. |
+| `routine/PROMPT.md` | The run's full instructions: Phase A news brief, Phase B prayer guide. |
+| `routine/sources.json` | Google News RSS queries, GDELT queries and curated outlet feeds. |
+| `scripts/fetch_candidates.py` | Pulls every source, keeps the time window, drops stories already in `seen.json`. |
+| `scripts/mark_seen.py` | Records a brief's links in `seen.json` so later runs skip them. |
+| `scripts/bible.py` | Exact KJV lookup and word search from `data/kjv.tsv.gz`. |
+| `scripts/build_prayer.py` | Checks the guide against the rules and writes Markdown, Word and PDF. |
+| `scripts/docwriters.py`, `scripts/pdf_metrics.py` | Word and PDF writers, standard-library Python only. |
+| `data/kjv.tsv.gz` | Full King James Version, 31,102 verses, public domain. |
+| `prayer/README.md`, `prayer/scripture-bank.md` | Guide rules and 167 verified passages by theme. |
+| `daily/`, `prayer/` | One brief and one guide (three files) per day. |
+| `seen.json` | Stories already covered. |
+| `README.md` | "Latest" links and a rolling 7-day summary, both rewritten by each run. |
 
-The scripts were tested offline with sample feeds (dedupe by URL and by
-headline, failing sources reported without aborting, exit code 2 when every
-source fails). They were **not** run against the live feeds, because the
-sandbox that produced them has the default network policy, which blocked every
-news host. That is the same block your routine will hit unless you do step 2.
+## One thing to do: let the run reach the news feeds
 
-## 1. Get the scaffold onto `main`
+The routine runs in the **Default** environment, whose network access is
+**Trusted**. That level allows GitHub and package registries but blocks news
+sites: every feed tested from it was refused. Web search still works, so the
+brief is still written, but from fewer sources. To give the fetch script its
+feeds:
 
-Routines clone the repository's default branch. Merge the branch
-`claude/magical-ritchie-1miwwo` into `main` (open a pull request on GitHub, or
-locally `git checkout main && git merge claude/magical-ritchie-1miwwo && git push`).
-Check that `main` now shows `SETUP.md`, `routine/`, `scripts/`, `daily/` and
-`seen.json`.
-
-If `main` has branch protection that forbids direct pushes, either relax it for
-this repository or change the prompt to push to a fixed branch such as
-`brief` and read the briefs there. The routine cannot approve its own pull
-requests.
-
-## 2. Create a cloud environment with Custom network access
-
-Why: the default environment ("Trusted") only allows package registries,
-GitHub, cloud SDKs and a few developer domains. When this scaffold was built,
-all 21 news hosts tested from such an environment were refused with HTTP 403
-by the proxy. Claude's built-in WebSearch still works there, because it goes
-through Anthropic's API, but the fetch script needs direct access to the feeds.
-
-1. Open <https://claude.ai/code>, go to **Environments** (or, from inside any
-   cloud session, the environment menu in the title bar, then **Edit**).
-2. Create a new environment, for example `news-brief`.
-3. **Network access** → **Custom**. Keep the default list of package managers,
-   then add these allowed domains (the second form covers the `www.` host where
-   the feed lives there):
+1. Open <https://claude.ai/code>, then the environment menu, then **Default**,
+   then **Edit**. Docs: <https://code.claude.com/docs/en/cloud-environments#network-access>.
+2. Set **Network access** to **Custom**, keep the default package-manager list,
+   and add these allowed domains:
 
    ```
    news.google.com
@@ -75,123 +83,78 @@ through Anthropic's API, but the fetch script needs direct access to the feeds.
    theguardian.com          www.theguardian.com
    ```
 
-   If you would rather not maintain a list, choose **Full** access instead. It
-   is simpler but lets the run reach any host.
-4. Leave the setup script empty. The scripts need only Python 3, which the
-   cloud image already has.
+   Choosing **Full** instead also works and needs no list.
 
-Docs: <https://code.claude.com/docs/en/cloud-environments#network-access>
+Changing Default affects your other cloud sessions too. Custom with the
+default list kept only adds hosts, so nothing that worked before stops
+working.
 
-## 3. Create the routine
+## Checking a run
 
-Pick one of the three ways.
+- Each run is a session named after the routine in your session list, and
+  you get a push notification when it finishes.
+- A green status only means the session started and exited cleanly. Read the
+  last line of the run: `Run complete: …` or `Run FAILED: …`.
+- On GitHub, `main` should gain two commits per day:
+  `Daily brief YYYY-MM-DD: N new items` and `Prayer guide YYYY-MM-DD: 10 points`.
+- The brief's `## Run report` lists failed sources. `HTTP 403` or `URLError`
+  means a domain missing from the allowed list. A feed marked
+  `"unverified": true` in `routine/sources.json` that fails three days running
+  should be removed.
+- The README's "Latest" line links the newest guide in all three formats.
 
-**A. Web UI (recommended).**
+## The first week
 
-1. Go to <https://claude.ai/code/routines> → **New routine**.
-2. Repository: `rryesuafuga/romans9ten11`. Environment: the one from step 2.
-3. Trigger: **Schedule → Daily → 03:07**. Times are entered in your local zone
-   and converted to UTC automatically, so make sure the browser you are using
-   is set to Africa/Kampala. Uganda has no daylight-saving time, so the UTC
-   value never drifts. Avoid 03:00 exactly: the docs warn that on-the-hour runs
-   can start several minutes late.
-4. Prompt: paste the **short prompt** from `routine/PROMPT.md`.
-5. Model: the most capable model your plan offers for the best triage and
-   summaries; Sonnet is the economical choice if usage matters more. The
-   selected model is used on every run.
-6. Connectors: none are needed. Everything goes through git and public feeds.
-7. Create it. The detail page shows the next run time; confirm it reads
-   03:07 EAT (00:07 UTC).
+- Each morning, open the README's "Latest" links. Read a few prayers and
+  check a few news bullets against their links.
+- If prayers drift in length, tone or focus, tighten `prayer/README.md`. If
+  the brief drifts, tighten `routine/PROMPT.md`.
+- A second run on the same Uganda date, for example a manual Run now, merges
+  new stories into that day's brief and rebuilds that day's guide.
 
-**B. From the CLI.** In any Claude Code session on this repo type `/schedule`
-and describe the routine in plain words ("every day at 03:07 Africa/Kampala,
-follow routine/PROMPT.md…"). `/schedule update` lets you set the cron directly;
-the UTC form is `7 0 * * *`.
-
-**C. From this Claude Code session.** Ask Claude to create it: the session has
-the routine-creation tool and can set
-`CRON_TZ=Africa/Kampala 7 3 * * *` with a fresh session per run. Say which
-model you want.
-
-Permissions: routine runs are fully autonomous. There is no permission-mode
-picker; shell commands and git run without approval. That is what makes
-unattended operation possible, and it is also why the prompt confines the run
-to three files.
-
-## 4. First run: press "Run now" and check five things
-
-1. The run list shows green. Remember the docs' caveat: green means the
-   session started and exited without an infrastructure error, **not** that the
-   task succeeded. Open the run and read the transcript.
-2. `main` has a new commit `Daily brief YYYY-MM-DD: N new items`.
-3. `daily/YYYY-MM-DD.md` exists, follows the template, and ends with
-   `Run complete: N new items · sources ok X/Y …`.
-4. In that run report, look at the failed sources. Anything with `HTTP 403`
-   or `URLError` is almost always a domain missing from the environment's
-   allowed list. Add it and run again. Feeds marked `"unverified": true` in
-   `routine/sources.json` were never reached from the sandbox; if one fails on
-   three consecutive days, delete it from the file.
-5. `seen.json` has entries and the README's rolling summary is no longer the
-   placeholder.
-
-"Run now" counts toward a limit of 30 manual fires per routine per hour, which
-you will not hit in normal use.
-
-## 5. The first week
-
-- Each morning, open <https://claude.ai/code/routines> and the repo. A missing
-  `Run complete` line, or a day with no commit, is a failed run; read the
-  transcript.
-- Scan a few bullets against their links for accuracy and tone. Tighten
-  `routine/PROMPT.md` if the brief drifts (too long, editorialising, duplicate
-  stories). Edits to the file take effect on the next run without touching the
-  routine, because the short prompt tells the run to read the file.
-- Quiet days produce short files. That is expected; the file still exists.
-- If the GitHub connection lapses, runs are skipped for up to 72 hours and
-  then the routine switches itself off. Reconnect GitHub at claude.ai/code and
-  re-enable it.
-
-## 6. When something goes wrong
+## When something goes wrong
 
 | Symptom | Likely cause | Fix |
 |---|---|---|
-| Run report says every source failed; exit code 2 | Environment is still Trusted, or domains missing | Step 2; re-run |
-| One or two feeds fail every day | Feed URL changed or outlet blocks bots | Remove or replace the entry in `routine/sources.json` |
-| Green run, no commit on `main` | Push refused (branch protection) or Claude stopped early | Read the transcript; relax protection or switch to a fixed branch |
-| Brief created on a `claude/…` branch | Prompt was shortened and lost the "push to main" rule | Restore the short prompt from `routine/PROMPT.md` |
-| Same story appears two days running | Outlet changed the URL and headline | Normal in small numbers; dedupe is by URL and by the first 12 words of the headline |
-| Two files for one day, or a duplicate section | Re-run on the same date appended instead of rewriting | The prompt says rewrite; delete the duplicate once and watch the next run |
-| Run starts 5–10 minutes late | Scheduler load at the top of the hour | Expected; 03:07 already avoids the worst of it |
-| Routine shows disabled | GitHub connection lapsed for 72 h, or you paused it | Reconnect, then enable |
+| Run report says every source failed | Default environment still Trusted | Do the network step above |
+| One or two feeds fail every day | Feed moved or blocks bots | Remove or replace it in `routine/sources.json` |
+| No commits, run says clone or push refused | Fresh session could not get repository access | Reconnect GitHub at claude.ai; if it persists, recreate the routine from claude.ai/code/routines with this repository attached and the same prompt |
+| Brief committed, guide missing | Phase B failed; the run's last line says why | Re-run with Run now; the brief merges and the guide is rebuilt |
+| Guide fails validation repeatedly | Rules too tight for a quiet news day | The script explains each problem; adjust `prayer/README.md` or the script's limits |
+| Work landed on a `claude/` branch | Prompt was edited and lost the main-branch rule | Restore the routine prompt; merge the branch |
+| Routine disabled | GitHub connection lapsed for 72 hours, or paused | Reconnect GitHub, then enable it |
 
-## 7. Usage and cost
+## Making a guide by hand
 
-Each run is a normal Claude Code cloud session billed to your subscription.
-Expect one run a day of roughly 10–25 minutes: a few file reads, two script
-runs, 4–8 WebSearch calls (one call may issue up to eight backend searches;
-a session is capped at 200 calls), one commit. Google News RSS and GDELT are
-free and need no key. If you move to an API key later (for example the GitHub
-Actions fallback below), web search on the API costs $10 per 1,000 searches on
-top of tokens.
+```bash
+python3 scripts/build_prayer.py --example > .brief/prayer.json
+python3 scripts/bible.py "Psalm 121:3-4"
+python3 scripts/bible.py --search "keepeth Israel"
+python3 scripts/build_prayer.py .brief/prayer.json
+```
 
-## 8. Fallback if routines misbehave: GitHub Actions
+## Scripture
 
-The same prompt and scripts work from a scheduled GitHub Actions workflow with
-`anthropics/claude-code-action@v1`, authenticated with `ANTHROPIC_API_KEY` or a
-`CLAUDE_CODE_OAUTH_TOKEN` from `claude setup-token`, stored as repository
-secrets. Sketch (untested here; do not add it while the routine is also
-running, or you will get two briefs a day):
+All quotations are from the King James Version (1769 text), which is in the
+public domain. The run never types Scripture: it picks references, and
+`scripts/build_prayer.py` inserts the exact text from `data/kjv.tsv.gz`.
+
+## Fallback: GitHub Actions
+
+If routines misbehave, the same instructions run from a scheduled GitHub
+Actions workflow with `anthropics/claude-code-action@v1` and an
+`ANTHROPIC_API_KEY` secret. Do not run both, or you will get duplicate work.
 
 ```yaml
-name: daily-brief
+name: daily-brief-and-prayer
 on:
   schedule:
-    - cron: "7 0 * * *"      # 03:07 Africa/Kampala, no DST
+    - cron: "7 0 * * *"      # 03:07 Africa/Kampala
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  brief:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -199,32 +162,5 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: "Open routine/PROMPT.md and follow the section 'Full instructions' exactly."
-          claude_args: "--max-turns 60"
+          claude_args: "--max-turns 120"
 ```
-
-GitHub notes: schedules run only from the default branch; midnight UTC is a
-high-load slot where queued jobs can be delayed or dropped; in a public
-repository, scheduled workflows are disabled after 60 days without activity
-(daily commits count as activity).
-
-## 9. Changing the scope later
-
-- **Sources:** edit `routine/sources.json`. Google News queries use the
-  `when:1d` operator; GDELT queries are `(term OR "phrase")` groups. Set
-  `"filter": true` on broad feeds so `relevance_terms` is applied.
-- **Themes, length, tone:** edit `routine/PROMPT.md` and `daily/README.md`.
-- **Time:** edit the routine's schedule in the UI (local time) or via
-  `/schedule update` (cron, UTC).
-- **Window:** the prompt passes `--hours 30` so a late start never leaves a
-  gap; the dedupe step stops the overlap from producing repeats.
-
-## What this does not cover
-
-- Notifications on completion or failure are not documented for routines.
-  The daily commit (or its absence) is the signal; the first-week check is
-  the safety net.
-- A Google Doc or Claude artifact as the living document. The repo is the
-  store here because git gives history, diffs and an unattended write path.
-  If you also want a Doc, add a Google Docs connector to the routine and a
-  step to the prompt; connector writes run without prompts in routines, but
-  that path was not tested.
