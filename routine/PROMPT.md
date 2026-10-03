@@ -47,6 +47,11 @@ not open a pull request.
    politics and society; security and the region; Judea and Samaria; Jewish
    diaspora communities; antisemitism incidents; Israel with Africa or
    Uganda). Keep only stories from the last ~30 hours not already covered.
+   When the fetch script reached no sources, run these searches with
+   `mode: "extended"`, because standard search often returns week-old pages;
+   otherwise `"standard"` is enough. Put the current date in each query.
+   If nothing dated within the window can be confirmed for a theme, leave the
+   theme out rather than filling it with older stories.
 5. Triage: significant, new, verifiable from a named outlet. Aim for 10 to 25
    bullets; fewer on a quiet day. Merge the same story from several outlets.
    Do not invent or embellish. A candidate you cannot confirm goes under
@@ -125,6 +130,9 @@ End with exactly one line:
 - `Run complete: N new items · prayer guide 10 points (md, docx, pdf) · sources ok X/Y · pushed <short sha>`
 - or `Run FAILED: <phase and one-line reason>`. Commit and push whatever was
   produced before failing, and describe the problem in the brief's run report.
+
+If a PushNotification tool is available, send that same line as one
+notification before you finish, so the owner sees the result on their phone.
 
 ### Standards for the news brief
 
