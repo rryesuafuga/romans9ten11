@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election campaign is under way (Haaretz, JPost).
-- Gaza: the IDF reported a strike on Hamas's Gaza leader; Palestinian media reported civilian deaths.
-- Lebanon: exchanges between the IDF and Hezbollah continue despite a ceasefire (Times of Israel, JNS).
-- Iran war: reports of US national-security consultations at Camp David.
-- Judea and Samaria: reports of settler violence around the olive harvest (Al Jazeera, JPost).
-- Diaspora: Simchat Torah observed; Belleville, Ontario synagogue targeted with antisemitic flyers after a Yom Kippur shooting.
-- Uganda: its military chief made public statements of support for Israel.
-_Updated 2026-10-04 from daily briefs 2026-10-04 to 2026-10-04._
+- Israel's 27 October Knesset election: 38 lists filed; the Supreme Court overturned bans on Arab-majority parties (Al Jazeera).
+- Three years since 7 October marked; Israel closed West Bank and Gaza crossings for the commemorations (JPost).
+- A FlyDubai co-pilot's attempt to crash a plane toward Tel Aviv was investigated; Israeli assessments say he acted alone (NPR, Times of Israel).
+- Gaza: a year after the Trump plan, strikes continue and Hamas is not disarmed (JPost).
+- Judea and Samaria: reports of settler attacks on Palestinian villages near Hebron, Jerusalem and Aqraba (JPost).
+- Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; antisemitic flyers at a Belleville, Ontario synagogue.
+- Uganda is preparing to deploy troops to the Gaza stabilization force.
+_Updated 2026-10-07 from daily briefs 2026-10-04 to 2026-10-07._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
