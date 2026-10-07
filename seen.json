@@ -3,9 +3,23 @@
  "updated": "2026-10-07",
  "items": [
   {
+   "url": "https://timesofisrael.com/liveblog-october-06-2026",
+   "title": "Zelensky hosts Israelis in Kyiv",
+   "title_key": "52413adf651d571c",
+   "source": "",
+   "first_seen": "2026-10-07"
+  },
+  {
    "url": "https://npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
    "title": "FlyDubai co-pilot intended to crash plane into Tel Aviv airport, investigators find",
    "title_key": "1efa1d9ee5fb7ac6",
+   "source": "",
+   "first_seen": "2026-10-07"
+  },
+  {
+   "url": "https://jpost.com/middle-east/iran-news/2026-10-06/live-updates-910734",
+   "title": "National Security Council warns of terror risk around 7 October anniversary",
+   "title_key": "852f4f2234f6ca6b",
    "source": "",
    "first_seen": "2026-10-07"
   },
@@ -62,6 +76,13 @@
    "url": "https://breakthroughnews.org/2026/09/30/uganda-readies-troop-deployment-to-gaza-risking-complicity-in-war-crimes",
    "title": "Uganda readies troop deployment to Gaza stabilization force",
    "title_key": "0e174042e50c1729",
+   "source": "",
+   "first_seen": "2026-10-07"
+  },
+  {
+   "url": "https://bod.org.uk/bod-news/jewish-community-to-gather-for-7-october-vigil-of-remembrance",
+   "title": "British Jewry to hold 7 October vigil",
+   "title_key": "acadcf4818f8097f",
    "source": "",
    "first_seen": "2026-10-07"
   },
