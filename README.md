@@ -8,12 +8,12 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 1. searches world news from the previous ~30 hours on Israel, Jews in Israel,
    Judea and Samaria and Jewish diaspora communities, and writes
    `daily/YYYY-MM-DD.md`;
-2. writes a 10-point prayer guide to the Lord Jesus from that news, with
+2. writes a 15-point prayer guide to the Lord Jesus from that news, with
    King James Version scriptures and a prayer for each point, as
    `prayer/YYYY-MM-DD.md`, `.docx` and `.pdf`:
    - 5 points on the issues in the day's news,
-   - 3 for the divine protection of Israel and the Jewish people,
-   - 2 for the salvation of the Jewish people;
+   - 5 for the divine protection of Israel and the Jewish people,
+   - 5 for the salvation of the Jewish people in Jesus Christ;
 3. commits both to `main`.
 
 <!-- LATEST_START -->

@@ -13,8 +13,8 @@ Usage:
     python3 scripts/build_prayer.py --example > .brief/prayer.json
 
 Rules (any failure prints every problem and exits 1 without writing files):
-  * exactly 5 "news", 3 "protection" and 2 "salvation" points (10 in all)
-  * every group has at least one Old Testament and one New Testament passage
+  * exactly 5 "news", 5 "protection" and 5 "salvation" points (15 in all)
+  * every part has at least 2 Old Testament and 2 New Testament passages
   * every reference exists in the KJV, is at most 4 verses long, and does not
     stop mid-sentence (last verse ending in a comma)
   * no passage is used twice in the guide, nor in the previous 7 days' guides
@@ -40,22 +40,31 @@ from docwriters import R  # noqa: E402
 REPO_URL = "https://github.com/rryesuafuga/romans9ten11"
 GROUPS = [
     ("news", 5, "Praying over today's news"),
-    ("protection", 3, "Divine protection of Israel and the Jewish people"),
-    ("salvation", 2, "Salvation of the Jewish people"),
+    ("protection", 5, "Divine protection of Israel and the Jewish people"),
+    ("salvation", 5, "Salvation of the Jewish people in Jesus Christ"),
 ]
+TOTAL_POINTS = sum(n for _, n, _ in GROUPS)
+MIN_PER_TESTAMENT = 2   # in each part: at least this many OT and this many NT passages
 MAX_VERSES = 4
 EPIGRAPH = "Romans 10:1"
 
 EXAMPLE = {
-    "date": "2026-10-04",
+    "date": "2026-10-09",
     "news": [
         {"focus": "Families of the hostages and the negotiators",
          "news": [{"url": "https://example.org/story-1"}],
          "scripture": "Psalm 34:18",
          "prayer": "Lord Jesus, ..."},
+        "... 5 news points in all, each linked to stories in today's brief ...",
     ],
-    "protection": [{"focus": "The Keeper of Israel", "scripture": "Psalm 121:4", "prayer": "Lord Jesus, ..."}],
-    "salvation": [{"focus": "A heart's desire for Israel", "scripture": "Romans 10:1", "prayer": "Lord Jesus, ..."}],
+    "protection": [
+        {"focus": "The Keeper of Israel", "scripture": "Psalm 121:3-4", "prayer": "Lord Jesus, ..."},
+        "... 5 protection points in all ...",
+    ],
+    "salvation": [
+        {"focus": "A heart's desire for Israel", "scripture": "Romans 10:1", "prayer": "Lord Jesus, ..."},
+        "... 5 salvation points in all ...",
+    ],
     "closing": "Lord Jesus, ... Amen.",
 }
 
@@ -132,10 +141,13 @@ def validate(spec, root, allow_repeats=False):
         if not isinstance(items, list) or len(items) != count:
             errors.append(f"'{key}' must be a list of exactly {count} points (got {len(items) if isinstance(items, list) else 'none'})")
             continue
-        testaments = set()
+        testaments = []
         resolved[key] = []
         for i, it in enumerate(items, 1):
             where = f"{key}[{i}]"
+            if not isinstance(it, dict):
+                errors.append(f"{where}: must be an object with focus, scripture and prayer")
+                continue
             focus = (it.get("focus") or "").strip()
             if not (3 <= len(focus) <= 90):
                 errors.append(f"{where}: 'focus' must be 3-90 characters")
@@ -154,7 +166,7 @@ def validate(spec, root, allow_repeats=False):
                 errors.append(f"{where}: {psg.reference} stops mid-sentence (ends with a comma); "
                               "extend the range to the end of the sentence or choose another passage")
             if psg:
-                testaments.add(psg.testament)
+                testaments.append(psg.testament)
                 for c, v, _ in psg.verses:
                     k = (psg.book, c, v)
                     if k in seen_here:
@@ -180,9 +192,11 @@ def validate(spec, root, allow_repeats=False):
                     else:
                         errors.append(f"{where}: {ln.get('url')!r} is not a story in daily/{date}.md or the previous 6 briefs")
             resolved[key].append({"focus": focus, "prayer": prayer, "passage": psg, "links": links})
-        if len(testaments) < 2 and len(items) == count:
-            have = ", ".join(sorted(testaments)) or "none"
-            errors.append(f"'{key}' needs at least one Old Testament and one New Testament passage (has: {have})")
+        if len(items) == count and len(testaments) == count:
+            n_ot, n_nt = testaments.count("OT"), testaments.count("NT")
+            if n_ot < MIN_PER_TESTAMENT or n_nt < MIN_PER_TESTAMENT:
+                errors.append(f"'{key}' needs at least {MIN_PER_TESTAMENT} Old Testament and {MIN_PER_TESTAMENT} "
+                              f"New Testament passages (has {n_ot} OT, {n_nt} NT)")
     if "news" in resolved and len(resolved["news"]) == 5:
         linked_today = sum(1 for p in resolved["news"] if any(l["today"] for l in p["links"]))
         need = min(5, len(today))
@@ -212,7 +226,7 @@ def build_blocks(v, for_markdown):
         {"t": "title", "text": f"Daily Prayer Guide — {long_date(d)}"},
         {"t": "subtitle", "text": "Praying to the Lord Jesus for Israel, Jews in Israel, Jews in the diaspora, and Judea and Samaria"},
         {"t": "meta", "runs": [R("Based on the "), R(f"daily news brief for {d.day} {d.strftime('%B')} {d.year}", url=brief_url),
-                               R(" · Scripture: King James Version (public domain) · 10 prayer points")]},
+                               R(f" · Scripture: King James Version (public domain) · {TOTAL_POINTS} prayer points")]},
         {"t": "epigraph", "text": epi.text, "ref": epi.reference},
         {"t": "h1", "text": "At a glance"},
     ]

@@ -6,7 +6,8 @@ run:
 
 1. gathers the last ~30 hours of world news on Israel, Jews in Israel, Judea
    and Samaria and Jewish diaspora communities, and writes `daily/YYYY-MM-DD.md`;
-2. writes a 10-point prayer guide to the Lord Jesus from that news, with a
+2. writes a 15-point prayer guide to the Lord Jesus from that news (5 on the
+   news, 5 for protection, 5 for salvation in Jesus Christ), with a
    King James Version passage and a prayer for each point, as
    `prayer/YYYY-MM-DD.md`, `.docx` and `.pdf`;
 3. commits both straight to `main` (brief first, then guide).
@@ -63,7 +64,7 @@ format) and push to `main`. The next run picks up the change.
 | `scripts/build_prayer.py` | Checks the guide against the rules and writes Markdown, Word and PDF. |
 | `scripts/docwriters.py`, `scripts/pdf_metrics.py` | Word and PDF writers, standard-library Python only. |
 | `data/kjv.tsv.gz` | Full King James Version, 31,102 verses, public domain. |
-| `prayer/README.md`, `prayer/scripture-bank.md` | Guide rules and 167 verified passages by theme. |
+| `prayer/README.md`, `prayer/scripture-bank.md` | Guide rules and 376 verified passages by theme. |
 | `daily/`, `prayer/` | One brief and one guide (three files) per day. |
 | `seen.json` | Stories already covered. |
 | `README.md` | "Latest" links and a rolling 7-day summary, both rewritten by each run. |
@@ -112,7 +113,7 @@ working.
 - A green status only means the session started and exited cleanly. Read the
   last line of the run: `Run complete: …` or `Run FAILED: …`.
 - On GitHub, `main` should gain two commits per day:
-  `Daily brief YYYY-MM-DD: N new items` and `Prayer guide YYYY-MM-DD: 10 points`.
+  `Daily brief YYYY-MM-DD: N new items` and `Prayer guide YYYY-MM-DD: 15 points`.
 - The brief's `## Run report` lists failed sources. `HTTP 403` or `URLError`
   means a domain missing from the allowed list. A feed marked
   `"unverified": true` in `routine/sources.json` that fails three days running

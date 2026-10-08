@@ -72,17 +72,24 @@ not open a pull request.
    git push origin main
    ```
 
-### Phase B — prayer guide (10 points)
+### Phase B — prayer guide (15 points)
 
 The guide prays to the Lord Jesus for Israel, Jews in Israel, Jews in the
-diaspora, and Judea and Samaria. It has exactly 10 points, each one a
+diaspora, and Judea and Samaria. It has exactly 15 points, each one a
 King James Version passage plus a prayer the reader can pray:
 
 | Part | Points | Focus | Scripture rule |
 |---|---|---|---|
-| 1 | 5 | The issues in today's news brief | Old and New Testament both present; aim for at least 2 of each |
-| 2 | 3 | Divine protection of the nation of Israel and of Jews everywhere | Old and New Testament both present |
-| 3 | 2 | Salvation of Jewish people: coming to faith in Jesus as Messiah and Lord | One Old Testament, one New Testament |
+| 1 | 1–5 | The issues in today's news brief | At least 2 Old and 2 New Testament |
+| 2 | 6–10 | Divine protection of the nation of Israel and of Jews everywhere | At least 2 Old and 2 New Testament |
+| 3 | 11–15 | Salvation of the Jewish people in Jesus Christ: coming to faith in Him as Messiah and Lord | At least 2 Old and 2 New Testament |
+
+Parts 2 and 3 should each cover different needs across their five points, not
+five variations of one idea. Protection, for example: the land and its
+borders, soldiers and civilians, Jerusalem, Jews in the diaspora, and God's
+covenant faithfulness. Salvation, for example: open eyes and hearts, the
+Messiah foretold, repentance and forgiveness, faithful witnesses, and Jewish
+believers in Jesus.
 
 10. Read `daily/$DATE.md`, the "At a glance" lists of the last 7 files in
     `prayer/`, and `prayer/scripture-bank.md`.
@@ -92,7 +99,7 @@ King James Version passage plus a prayer the reader can pray:
     Uganda or Africa angle. Each point links to 1 to 3 stories by their exact
     URLs in `daily/$DATE.md`. If today's brief has fewer than 5 stories, use
     stories from the previous 6 briefs or an ongoing theme for the rest.
-12. Choose passages. Use `prayer/scripture-bank.md` for ideas and any other
+12. Choose 15 passages. Use `prayer/scripture-bank.md` for ideas and any other
     fitting passage. Confirm the wording and range of every choice with
     `python3 scripts/bible.py "<reference>"`, or find one with
     `python3 scripts/bible.py --search "<words>"`. Never quote Scripture from
@@ -117,7 +124,7 @@ King James Version passage plus a prayer the reader can pray:
 16. Commit and push:
     ```
     git add prayer/$DATE.md prayer/$DATE.docx prayer/$DATE.pdf README.md
-    git commit -m "Prayer guide $DATE: 10 points"
+    git commit -m "Prayer guide $DATE: 15 points"
     git push origin main
     ```
     If a push is rejected as non-fast-forward, run `git pull --rebase origin main`
@@ -127,7 +134,7 @@ King James Version passage plus a prayer the reader can pray:
 
 End with exactly one line:
 
-- `Run complete: N new items · prayer guide 10 points (md, docx, pdf) · sources ok X/Y · pushed <short sha>`
+- `Run complete: N new items · prayer guide 15 points (md, docx, pdf) · sources ok X/Y · pushed <short sha>`
 - or `Run FAILED: <phase and one-line reason>`. Commit and push whatever was
   produced before failing, and describe the problem in the brief's run report.
 

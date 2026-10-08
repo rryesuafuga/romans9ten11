@@ -11,13 +11,13 @@ They are built by `scripts/build_prayer.py` from a short spec the routine
 writes. The script inserts the exact King James Version text from
 `data/kjv.tsv.gz`, so Scripture is never quoted from memory.
 
-## Structure (10 points)
+## Structure (15 points)
 
 | Part | Points | What it prays about | Scripture |
 |---|---|---|---|
-| 1 | 1–5 | Issues in that day's news brief, each linked to its stories | Old and New Testament both present |
-| 2 | 6–8 | Divine protection of the nation of Israel and of Jews everywhere | Old and New Testament both present |
-| 3 | 9–10 | Salvation of Jewish people: coming to faith in Jesus as Messiah and Lord | One Old, one New Testament |
+| 1 | 1–5 | Issues in that day's news brief, each linked to its stories | At least 2 Old and 2 New Testament |
+| 2 | 6–10 | Divine protection of the nation of Israel and of Jews everywhere | At least 2 Old and 2 New Testament |
+| 3 | 11–15 | Salvation of the Jewish people in Jesus Christ: coming to faith in Him as Messiah and Lord | At least 2 Old and 2 New Testament |
 
 Each point has a short focus line, the KJV passage (1–4 verses) with its
 reference and testament, and a prayer. The guide opens with Romans 10:1 and an
@@ -44,7 +44,7 @@ reference and testament, and a prayer. The guide opens with Romans 10:1 and an
 
 ## Rules the build script enforces
 
-- Exactly 5 + 3 + 2 points, with Old and New Testament both present in each part.
+- Exactly 5 + 5 + 5 points, with at least 2 Old and 2 New Testament passages in each part.
 - Every reference exists in the KJV, is 4 verses or fewer, and does not stop
   mid-sentence.
 - No passage is used twice in a guide or in the previous 7 days' guides.

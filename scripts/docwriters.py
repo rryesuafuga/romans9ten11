@@ -446,7 +446,9 @@ def write_pdf(blocks, path, title, footer_text):
             para([(b["text"], "it", MUTED, None, False)], size=11.5, x0=M + 30, width=TW - 60, before=4, after=2)
             para([(f"— {b['ref']} (KJV)", "rm", MUTED, None, False)], size=10.5, x0=M + 30, width=TW - 60, after=14)
         elif t == "h1":
-            ensure(80)
+            # room for the heading plus the next point's title and scripture box, so a
+            # part heading is never stranded at the foot of a page
+            ensure(200)
             para([(b["text"], "sansb", ACCENT, None, False)], size=15, before=16, after=4)
             r, g, b_ = _hex_rgb(ACCENT)
             state["ops"].append(f"{r:.3f} {g:.3f} {b_:.3f} RG 0.8 w {M:.2f} {state['y'] + 2:.2f} m {PW - M:.2f} {state['y'] + 2:.2f} l S".encode())
