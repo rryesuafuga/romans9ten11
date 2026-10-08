@@ -17,7 +17,7 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 3. commits both to `main`.
 
 <!-- LATEST_START -->
-**Latest (2026-10-07):** prayer guide [Markdown](prayer/2026-10-07.md) · [Word](prayer/2026-10-07.docx) · [PDF](prayer/2026-10-07.pdf) · [news brief](daily/2026-10-07.md)
+**Latest (2026-10-08):** prayer guide [Markdown](prayer/2026-10-08.md) · [Word](prayer/2026-10-08.docx) · [PDF](prayer/2026-10-08.pdf) · [news brief](daily/2026-10-08.md)
 <!-- LATEST_END -->
 
 - Setup and operations: [`SETUP.md`](SETUP.md)
