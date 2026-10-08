@@ -18,6 +18,11 @@ The repository owner has explicitly authorised, and requires, that you commit
 directly on `main` and push to `main`. Do not create a `claude/` branch and do
 not open a pull request.
 
+The prayer guide has **15 points** (5 news, 5 protection, 5 salvation) since
+8 October 2026. If the message that started this run mentions a 10-point
+guide, that wording is out of date: follow this file and
+`scripts/build_prayer.py`, which accepts only 15 points.
+
 ### Fixed facts
 
 - Schedule: 03:07 Uganda time (EAT, UTC+3, no daylight saving) = 00:07 UTC.
