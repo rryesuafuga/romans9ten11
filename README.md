@@ -37,7 +37,9 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 - Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; antisemitic flyers at a Belleville, Ontario synagogue.
 - The National Security Council warned of terror risk to Israelis and Jews abroad around the anniversary.
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-08 from daily briefs 2026-10-04 to 2026-10-08._
+- Election polls on 8 October show neither bloc with a majority; a former military secretary alleged tampering with 7 October phone records (Times of Israel, i24NEWS).
+- Qatari negotiators went to Tehran to try to finalise a US–Iran deal while the ceasefire is described as fragile (NBC News).
+_Updated 2026-10-09 from daily briefs 2026-10-04 to 2026-10-09._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
