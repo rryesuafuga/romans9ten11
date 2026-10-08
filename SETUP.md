@@ -43,8 +43,16 @@ point the routine at it, or create the routine from
 <https://claude.ai/code/routines> with this repository attached and the
 worker prompt from the routine.
 
-You can pause the routine, press **Run now**, or change the time from your
-routines list at <https://claude.ai/code/routines>. The worker's model is set
+You can pause the routine or change the time from your routines list at
+<https://claude.ai/code/routines>.
+
+**Do not use "Run now" on this routine.** A manual fire starts a fresh session
+instead of waking the dispatcher, and that session has no tool for starting
+the worker, so it only reports `Dispatch FAILED` (tested on 8 October). To get
+an extra run, either ask Claude in a session with this repository to start a
+worker with the settings in the routine's prompt, or open the dispatcher
+session and ask it to dispatch one worker now. A second run on the same
+Uganda date merges new stories into that day's brief and rebuilds the guide. The worker's model is set
 inside the routine's prompt (`model: claude-sonnet-5-5`); change that line to
 use a different model.
 
@@ -141,6 +149,8 @@ working.
 | Guide fails validation repeatedly | Rules too tight for a quiet news day | The script explains each problem; adjust `prayer/README.md` or the script's limits |
 | Work landed on a `claude/` branch | Prompt was edited and lost the main-branch rule | Restore the routine prompt; merge the branch |
 | Routine disabled | GitHub connection lapsed for 72 hours, or paused | Reconnect GitHub, then enable it |
+| Phone shows `Dispatch FAILED: create_session tool ... is not available` | Someone pressed Run now | Harmless; nothing ran. Start a worker as described under "The routine" |
+| Run fails with "Your organization has disabled Claude subscription access for Claude Code" | Account or organization setting (seen 5–7 October) | Ask the account's admin to re-enable subscription access; queued runs fire when it returns |
 
 ## Making a guide by hand
 
