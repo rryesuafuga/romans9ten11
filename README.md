@@ -29,14 +29,15 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election: 38 lists filed; the Supreme Court overturned bans on Arab-majority parties (Al Jazeera).
-- Three years since 7 October marked; Israel closed West Bank and Gaza crossings for the commemorations (JPost).
+- Israel's 27 October Knesset election: 38 lists filed; the Supreme Court overturned bans on Arab-majority parties; polls reportedly point to a hung Knesset (Al Jazeera, Axios).
+- Three years since 7 October marked in Israel and in diaspora vigils in London, Sydney and New York (France 24, ABC, JTA, Board of Deputies).
 - A FlyDubai co-pilot's attempt to crash a plane toward Tel Aviv was investigated; Israeli assessments say he acted alone (NPR, Times of Israel).
 - Gaza: a year after the Trump plan, strikes continue and Hamas is not disarmed (JPost).
-- Judea and Samaria: reports of settler attacks on Palestinian villages near Hebron, Jerusalem and Aqraba (JPost).
+- Judea and Samaria: reported settler attacks on Palestinian villages and olive harvesters, including a death near Burqa (Al Jazeera, JPost); a second suspect held over an attempted stabbing near Hananya Farm (Times of Israel).
 - Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; antisemitic flyers at a Belleville, Ontario synagogue.
+- The National Security Council warned of terror risk to Israelis and Jews abroad around the anniversary.
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-07 from daily briefs 2026-10-04 to 2026-10-07._
+_Updated 2026-10-08 from daily briefs 2026-10-04 to 2026-10-08._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
