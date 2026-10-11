@@ -1,7 +1,35 @@
 {
  "version": 1,
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "items": [
+  {
+   "url": "https://timesofisrael.com/topic/israeli-elections",
+   "title": "Likud signs surplus-vote agreement with Religious Zionist Party",
+   "title_key": "5741138d74c35a03",
+   "source": "",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog-october-10-2026",
+   "title": "IDF raises its tally of militants killed in Gaza over the past week to 17",
+   "title_key": "f6797c8d003de0ec",
+   "source": "",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "url": "https://timesofisrael.com/joint-list-says-it-will-provide-safety-net-for-any-anti-netanyahu-coalition-report",
+   "title": "Joint List says it would give a \"safety net\" to any anti-Netanyahu coalition",
+   "title_key": "73ad6975c444eafa",
+   "source": "",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "url": "https://aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest",
+   "title": "Palestinian farmers ask for international protection during the olive harvest",
+   "title_key": "93ebea0a02c97ebe",
+   "source": "",
+   "first_seen": "2026-10-11"
+  },
   {
    "url": "https://timesofisrael.com/liveblog-oct-9-2026",
    "title": "IDF says it struck a Syrian man in Lebanon who was plotting Iran-directed attacks",

@@ -29,15 +29,15 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election: 38 lists filed; polls on 8–9 October point to a hung Knesset, with one TV poll putting Netanyahu's bloc slightly ahead (Times of Israel, i24NEWS, Al Jazeera).
-- Opposition leader Eisenkot called for a criminal probe of Netanyahu; a former military secretary made an unverified allegation about 7 October phone records (Times of Israel).
+- Israel's 27 October Knesset election: polls on 8–10 October point to a hung Knesset; the Joint List says it would back any government replacing Netanyahu (Times of Israel, Ynetnews, Jerusalem Post).
+- Opposition leader Eisenkot called for a criminal probe of Netanyahu (Times of Israel).
 - Three years since 7 October marked in Israel and in diaspora vigils in London, Sydney and New York (France 24, ABC, JTA).
-- Security: the IDF reports strikes in Lebanon and Gaza City; a US–Iran deal and the Iran ceasefire remain uncertain, with Trump saying the war will be over soon (Times of Israel, NBC News).
-- Judea and Samaria: reported settler attacks on olive harvesters near Salfit and Aqraba; police arrested 12 settler activists after an outpost demolition (Times of Israel, Al Jazeera).
+- Security: the IDF reports continued strikes in Gaza (17 militants killed in a week, per the IDF) and Lebanon, where an IDF soldier died in a vehicle accident; the Iran war and ceasefire remain unsettled (Times of Israel, JNS).
+- Judea and Samaria: reported settler attacks on olive harvesters near Salfit and Aqraba; Palestinian farmers ask for international protection (Times of Israel, Al Jazeera).
 - Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; Toronto Israeli-flag burning investigated as a hate incident (JTA, CP24).
 - The National Security Council warned of terror risk to Israelis and Jews abroad around the anniversary.
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-10 from daily briefs 2026-10-04 to 2026-10-10._
+_Updated 2026-10-11 from daily briefs 2026-10-05 to 2026-10-11._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
