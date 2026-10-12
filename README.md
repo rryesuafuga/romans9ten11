@@ -29,15 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election: polls on 8–10 October point to a hung Knesset; the Joint List says it would back any government replacing Netanyahu (Times of Israel, Ynetnews, Jerusalem Post).
-- Opposition leader Eisenkot called for a criminal probe of Netanyahu (Times of Israel).
-- Three years since 7 October marked in Israel and in diaspora vigils in London, Sydney and New York (France 24, ABC, JTA).
-- Security: the IDF reports continued strikes in Gaza (17 militants killed in a week, per the IDF) and Lebanon, where an IDF soldier died in a vehicle accident; the Iran war and ceasefire remain unsettled (Times of Israel, JNS).
-- Judea and Samaria: reported settler attacks on olive harvesters near Salfit and Aqraba; Palestinian farmers ask for international protection (Times of Israel, Al Jazeera).
-- Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; Toronto Israeli-flag burning investigated as a hate incident (JTA, CP24).
-- The National Security Council warned of terror risk to Israelis and Jews abroad around the anniversary.
+- Israel's 27 October Knesset election: polls on 11 October give the coalition 53 seats and Eisenkot's bloc 50, neither at 61; Bennett did not rule out Netanyahu as a minister (Haaretz).
+- The Joint List says it would back any government replacing Netanyahu; Eisenkot called for a criminal probe of Netanyahu (Times of Israel).
+- Three years since 7 October marked in Israel and in diaspora vigils, including Dublin, London, Sydney and New York (Irish Times, JTA, ABC).
+- Security: Netanyahu convened security officials on Iran, Gaza and Lebanon; one year into the Gaza ceasefire, strikes continue (Times of Israel).
+- Judea and Samaria: reported settler attacks on olive harvesters; farmers ask for international protection (Al Jazeera, The New Arab).
+- Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; Canadian groups report rising hate incidents (JTA, CP24).
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-11 from daily briefs 2026-10-05 to 2026-10-11._
+_Updated 2026-10-12 from daily briefs 2026-10-06 to 2026-10-12._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

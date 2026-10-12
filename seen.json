@@ -1,7 +1,42 @@
 {
  "version": 1,
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "items": [
+  {
+   "url": "https://timesofisrael.com/liveblog-october-11-2026",
+   "title": "PM convenes security officials amid concerns of Iran escalation",
+   "title_key": "2dc69ae0447837c5",
+   "source": "",
+   "first_seen": "2026-10-12"
+  },
+  {
+   "url": "https://newarab.com/news/israeli-settlers-attack-west-bank-olive-harvesters",
+   "title": "Settlers and soldiers reported attacking olive harvesters",
+   "title_key": "3c1e86e00a4431f5",
+   "source": "",
+   "first_seen": "2026-10-12"
+  },
+  {
+   "url": "https://irishtimes.com/ireland/2026/10/11/people-afraid-to-say-they-are-jewish-dublin-event-marks-october-7th-attacks-on-israel",
+   "title": "Dublin event marks 7 October; speakers say Jews feel afraid to say they are Jewish",
+   "title_key": "7b177d13609dc23a",
+   "source": "",
+   "first_seen": "2026-10-12"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-12/ty-article/.premium/bennett-open-to-netanyahu-as-minister-opposition-leaders-rule-it-out/000001a1-2c6a-d618-adfb-befa77b90000",
+   "title": "Bennett open to Netanyahu as a minister; opposition leaders rule it out",
+   "title_key": "463ab2e4ddfadb5c",
+   "source": "",
+   "first_seen": "2026-10-12"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-11/ty-article/israel-election-poll-eisenkot-bloc-continues-slump-as-coalition-gains-ground/000001a1-2c63-d7a5-a7b1-be7397560000",
+   "title": "Poll: Eisenkot bloc slips as Netanyahu's coalition gains ground",
+   "title_key": "336d51ed5ad852ec",
+   "source": "",
+   "first_seen": "2026-10-12"
+  },
   {
    "url": "https://timesofisrael.com/topic/israeli-elections",
    "title": "Likud signs surplus-vote agreement with Religious Zionist Party",
