@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election: polls on 11 October give the coalition 53 seats and Eisenkot's bloc 50, neither at 61; Bennett did not rule out Netanyahu as a minister (Haaretz).
-- The Joint List says it would back any government replacing Netanyahu; Eisenkot called for a criminal probe of Netanyahu (Times of Israel).
-- Three years since 7 October marked in Israel and in diaspora vigils, including Dublin, London, Sydney and New York (Irish Times, JTA, ABC).
-- Security: Netanyahu convened security officials on Iran, Gaza and Lebanon; one year into the Gaza ceasefire, strikes continue (Times of Israel).
-- Judea and Samaria: reported settler attacks on olive harvesters; farmers ask for international protection (Al Jazeera, The New Arab).
-- Diaspora: two Iranian men charged over an alleged plot against Manchester's Jewish community; Canadian groups report rising hate incidents (JTA, CP24).
+- Israel's 27 October Knesset election: polls give neither bloc 61 seats; Golan accuses Netanyahu of planning to disrupt the vote, and analysts expect deadlock (Haaretz, Times of Israel).
+- Bennett did not rule out Netanyahu as a minister; Eisenkot called for a criminal probe of Netanyahu (Haaretz, Times of Israel).
+- Security: a teenager was killed and 24 hurt by an unexploded Hezbollah munition on a school hike near the Lebanon border; Netanyahu convened officials on Iran, Gaza and Lebanon (Times of Israel).
+- Judea and Samaria: Katz calls the IDF presence in emptied camps "permanent"; High Court presses the state on return of 33,000 displaced Palestinians; olive-harvest violence reported (Times of Israel, Haaretz, Al Jazeera).
+- Diaspora: anti-Jewish hate crimes up 10% in England and Wales; two Iranian men charged over an alleged plot against Manchester's Jewish community (JTA).
+- Three years since 7 October marked in vigils in Dublin, London, Sydney and New York (Irish Times, JTA).
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-12 from daily briefs 2026-10-06 to 2026-10-12._
+_Updated 2026-10-13 from daily briefs 2026-10-07 to 2026-10-13._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
