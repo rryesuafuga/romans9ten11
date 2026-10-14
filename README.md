@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October Knesset election: polls give neither bloc 61 seats; Golan accuses Netanyahu of planning to disrupt the vote, and analysts expect deadlock (Haaretz, Times of Israel).
-- Bennett did not rule out Netanyahu as a minister; Eisenkot called for a criminal probe of Netanyahu (Haaretz, Times of Israel).
-- Security: a teenager was killed and 24 hurt by an unexploded Hezbollah munition on a school hike near the Lebanon border; Netanyahu convened officials on Iran, Gaza and Lebanon (Times of Israel).
-- Judea and Samaria: Katz calls the IDF presence in emptied camps "permanent"; High Court presses the state on return of 33,000 displaced Palestinians; olive-harvest violence reported (Times of Israel, Haaretz, Al Jazeera).
+- Israel's 27 October election dominates: polls show neither bloc near 61 seats, and opposition and coalition figures trade accusations over the result.
+- A teenager died and others were hurt by an unexploded Hezbollah submunition on a school hike near the Lebanon border.
+- Defence Minister Katz called the IDF presence in depopulated West Bank camps permanent; the High Court asked the state about return of displaced residents.
+- Settlement security coordinators protested arrests over alleged violence; Palestinian outlets report settler attacks on olive harvests.
 - Diaspora: anti-Jewish hate crimes up 10% in England and Wales; two Iranian men charged over an alleged plot against Manchester's Jewish community (JTA).
-- Three years since 7 October marked in vigils in Dublin, London, Sydney and New York (Irish Times, JTA).
+- Three years since 7 October marked by vigils in several cities.
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-13 from daily briefs 2026-10-07 to 2026-10-13._
+_Updated 2026-10-14 from daily briefs 2026-10-08 to 2026-10-14._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
