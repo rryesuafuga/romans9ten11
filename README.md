@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election dominates: polls show neither bloc near 61 seats, and opposition and coalition figures trade accusations over the result.
-- A teenager died and others were hurt by an unexploded Hezbollah submunition on a school hike near the Lebanon border.
-- Defence Minister Katz called the IDF presence in depopulated West Bank camps permanent; the High Court asked the state about return of displaced residents.
-- Settlement security coordinators protested arrests over alleged violence; Palestinian outlets report settler attacks on olive harvests.
-- Diaspora: anti-Jewish hate crimes up 10% in England and Wales; two Iranian men charged over an alleged plot against Manchester's Jewish community (JTA).
+- Israel's 27 October election: Kan poll has Netanyahu's bloc at 53 and Eisenkot's at 50, neither near 61; small parties sit near the threshold.
+- Defence Minister Katz warned Hezbollah that joining Iran would mean more Israeli territory taken in southern Lebanon; Netanyahu said he is not seeking to strike Iran before the vote.
+- A teenager died and others were hurt by an unexploded Hezbollah munition on a hike near the Lebanon border.
+- Judea and Samaria: reports of settler attacks during the olive harvest, including a mosque arson in Mikhmas; the IDF raided two charities it calls terror fronts.
+- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; anti-Jewish hate crimes rose 10% in England and Wales.
 - Three years since 7 October marked by vigils in several cities.
 - Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-14 from daily briefs 2026-10-08 to 2026-10-14._
+_Updated 2026-10-15 from daily briefs 2026-10-09 to 2026-10-15._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

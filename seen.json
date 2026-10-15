@@ -1,7 +1,56 @@
 {
  "version": 1,
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "items": [
+  {
+   "url": "https://timesofisrael.com/idf-shin-bet-raid-two-west-bank-charities-they-say-were-fronts-for-terror-groups",
+   "title": "IDF and Shin Bet raid two West Bank charities they say were fronts for terror groups",
+   "title_key": "a91a86e0ba9c3896",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://investing.com/news/world-news/netanyahu-says-he-is-not-seeking-to-attack-iran-again-before-israel-election-4949370",
+   "title": "Netanyahu says he is not seeking to strike Iran again before the election",
+   "title_key": "00bf4a9960a91d87",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://haaretz.com/world-news/europe/2026-10-14/ty-article/u-k-launches-public-inquiry-into-killing-of-two-jewish-men-in-synagogue-attack/000001a1-394f-ddfa-adad-fdcffbd40000",
+   "title": "UK launches public inquiry into the Manchester synagogue attack",
+   "title_key": "2d122075ce7210c7",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/israel-politics/2026-10-14/ty-article/.premium/israels-election-is-becoming-a-duel-the-prize-leading-a-unity-government/000001a1-36e5-d217-a5ab-7ef503460000",
+   "title": "Haaretz analysis: the election is becoming a duel over leading a unity government",
+   "title_key": "8f550e9fda3575fa",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://arabnews.com/middle-east/israel-threatens-to-seize-more-territory-in-southern-lebanon-if-hezbollah-joins-iran-war-3006288",
+   "title": "Katz warns Hezbollah: joining Iran would mean more Israeli territory taken in southern Lebanon",
+   "title_key": "b645b5994e158953",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages",
+   "title": "Settlers reported to set fire to a mosque and vehicle in Mikhmas",
+   "title_key": "7c5a0b8fe0dd55eb",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "url": "https://aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote",
+   "title": "Palestinians in the West Bank have no say in Israel's vote",
+   "title_key": "a1cf852261d4bce1",
+   "source": "",
+   "first_seen": "2026-10-15"
+  },
   {
    "url": "https://jta.org/2026/10/13/israel/checkmate-netanyahu-faces-a-daunting-playing-field-ahead-of-oct-27",
    "title": "JTA: Netanyahu faces a daunting playing field ahead of the 27 October election",
