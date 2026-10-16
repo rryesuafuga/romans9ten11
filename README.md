@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: Kan poll has Netanyahu's bloc at 53 and Eisenkot's at 50, neither near 61; small parties sit near the threshold.
+- Israel's 27 October election: polls show neither bloc near 61 seats (Kan: Netanyahu's bloc 53, Eisenkot's 50); voting opened 15 October at Israeli missions abroad.
 - Defence Minister Katz warned Hezbollah that joining Iran would mean more Israeli territory taken in southern Lebanon; Netanyahu said he is not seeking to strike Iran before the vote.
 - A teenager died and others were hurt by an unexploded Hezbollah munition on a hike near the Lebanon border.
 - Judea and Samaria: reports of settler attacks during the olive harvest, including a mosque arson in Mikhmas; the IDF raided two charities it calls terror fronts.
-- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; anti-Jewish hate crimes rose 10% in England and Wales.
-- Three years since 7 October marked by vigils in several cities.
-- Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-15 from daily briefs 2026-10-09 to 2026-10-15._
+- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; a Michigan synagogue event on antisemitism drew political criticism.
+- Lithuania's Jewish leader reported bomb threats against a synagogue.
+- Africa: Al Jazeera reports Israel's election is closely watched across the continent; Uganda is preparing to deploy troops to the Gaza stabilization force.
+_Updated 2026-10-16 from daily briefs 2026-10-10 to 2026-10-16._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
