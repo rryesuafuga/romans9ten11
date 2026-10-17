@@ -29,14 +29,15 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats (Kan: Netanyahu's bloc 53, Eisenkot's 50); voting opened 15 October at Israeli missions abroad.
-- Defence Minister Katz warned Hezbollah that joining Iran would mean more Israeli territory taken in southern Lebanon; Netanyahu said he is not seeking to strike Iran before the vote.
+- Israel's 27 October election: polls show neither bloc near 61 seats; a Times of Israel poll has Eisenkot's Yashar ahead of Likud; voting opened 15 October at Israeli missions abroad.
+- Israel raised its military alert over possible Iran or Hezbollah escalation, though Kan reported no concrete intelligence of an imminent attack.
+- Defence Minister Katz said areas around Nabatieh and the Litani could join a security zone in southern Lebanon if Hezbollah joins Iran.
 - A teenager died and others were hurt by an unexploded Hezbollah munition on a hike near the Lebanon border.
-- Judea and Samaria: reports of settler attacks during the olive harvest, including a mosque arson in Mikhmas; the IDF raided two charities it calls terror fronts.
+- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah where a Washington Post photographer was injured; the IDF says it will examine the incident.
 - Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; a Michigan synagogue event on antisemitism drew political criticism.
 - Lithuania's Jewish leader reported bomb threats against a synagogue.
-- Africa: Al Jazeera reports Israel's election is closely watched across the continent; Uganda is preparing to deploy troops to the Gaza stabilization force.
-_Updated 2026-10-16 from daily briefs 2026-10-10 to 2026-10-16._
+- Africa: Al Jazeera reports Israel's election is closely watched across the continent.
+_Updated 2026-10-17 from daily briefs 2026-10-11 to 2026-10-17._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
