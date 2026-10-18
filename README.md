@@ -29,15 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats; a Times of Israel poll has Eisenkot's Yashar ahead of Likud; voting opened 15 October at Israeli missions abroad.
-- Israel raised its military alert over possible Iran or Hezbollah escalation, though Kan reported no concrete intelligence of an imminent attack.
+- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud; voting at missions abroad has ended with higher turnout than 2022.
+- Israel raised its military alert over possible Iran or Hezbollah escalation; the IDF chief warned of potential escalation on all fronts.
 - Defence Minister Katz said areas around Nabatieh and the Litani could join a security zone in southern Lebanon if Hezbollah joins Iran.
-- A teenager died and others were hurt by an unexploded Hezbollah munition on a hike near the Lebanon border.
-- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah where a Washington Post photographer was injured; the IDF says it will examine the incident.
-- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; a Michigan synagogue event on antisemitism drew political criticism.
+- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah and an alleged attack on European diplomats in Taybeh; the IDF condemned it and police opened an investigation.
+- Netanyahu's office urged waiting for the facts; Eisenkot called the attackers "Jewish terrorists".
+- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; Bennett and Lapid pledged to strengthen Israel-diaspora ties.
 - Lithuania's Jewish leader reported bomb threats against a synagogue.
-- Africa: Al Jazeera reports Israel's election is closely watched across the continent.
-_Updated 2026-10-17 from daily briefs 2026-10-11 to 2026-10-17._
+_Updated 2026-10-18 from daily briefs 2026-10-12 to 2026-10-18._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
