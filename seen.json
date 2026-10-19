@@ -1,7 +1,49 @@
 {
  "version": 1,
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "items": [
+  {
+   "url": "https://washingtonpost.com/world/2026/10/16/palestinians-washington-post-photographer-attacked-west-bank",
+   "title": "Settlers attack Palestinians and a Washington Post photographer during the olive harvest",
+   "title_key": "e139299ee970e667",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog-october-18-2026",
+   "title": "Former chief rabbi Yitzhak Yosef tells followers not to vote for Ben Gvir",
+   "title_key": "18fdf7f9e4bc3237",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "url": "https://jpost.com/israel-news/defense-news/article-911722",
+   "title": "Defense Minister Katz says Israel would seize more Lebanese land if Hezbollah or Iran attack",
+   "title_key": "3b15a3bcc05f6362",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "url": "https://jpost.com/israel-election-2026/article-912004",
+   "title": "Polls: blocs struggle to reach a Knesset majority as Eisenkot leads Netanyahu",
+   "title_key": "99571ae13dbc03d0",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "url": "https://jpost.com/diaspora/article-912093",
+   "title": "Paris synagogue and Jewish-linked sites damaged during riots; antisemitic motive unclear",
+   "title_key": "6d309649329004a9",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "url": "https://abc.net.au/news/2026-10-18/israeli-settler-attack-palestinians-european-diplomats-west-bank/107280242",
+   "title": "Belgium says settlers attacked Palestinians and European diplomats near Taybeh",
+   "title_key": "a5112709951c3579",
+   "source": "",
+   "first_seen": "2026-10-19"
+  },
   {
    "url": "https://timesofisrael.com/israeli-emissaries-abroad-end-voting-with-turnout-17-percentage-points-higher-than-2022",
    "title": "Voting at Israel's missions abroad ends with higher turnout",

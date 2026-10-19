@@ -29,14 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud; voting at missions abroad has ended with higher turnout than 2022.
-- Israel raised its military alert over possible Iran or Hezbollah escalation; the IDF chief warned of potential escalation on all fronts.
-- Defence Minister Katz said areas around Nabatieh and the Litani could join a security zone in southern Lebanon if Hezbollah joins Iran.
-- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah and an alleged attack on European diplomats in Taybeh; the IDF condemned it and police opened an investigation.
+- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud; voting at missions abroad ended with higher turnout than in 2022.
+- Former chief rabbi Yitzhak Yosef told followers not to vote for Ben Gvir.
+- The IDF chief warned of potential escalation on all fronts; Defence Minister Katz said areas around Nabatieh and the Litani could be seized if Hezbollah or Iran attack.
+- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah (a Washington Post photographer was beaten) and near Taybeh, where Belgium says European diplomats were attacked; the IDF condemned the violence.
 - Netanyahu's office urged waiting for the facts; Eisenkot called the attackers "Jewish terrorists".
 - Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; Bennett and Lapid pledged to strengthen Israel-diaspora ties.
-- Lithuania's Jewish leader reported bomb threats against a synagogue.
-_Updated 2026-10-18 from daily briefs 2026-10-12 to 2026-10-18._
+- A Paris synagogue was damaged during riots; Jewish community security officials said it appeared to be attempted robbery, not an antisemitic attack.
+_Updated 2026-10-19 from daily briefs 2026-10-13 to 2026-10-19._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
