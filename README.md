@@ -29,13 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud; US Defense Secretary Hegseth met Netanyahu in an unannounced visit on 19 October.
-- Former chief rabbi Yitzhak Yosef told followers not to vote for Ben Gvir.
-- Katz said areas around Nabatieh and the Litani could be seized if Hezbollah or Iran attack; Israeli strikes continued in Gaza amid mutual ceasefire-violation claims, and the WFP said it will end monthly aid to 500,000 people there.
-- Judea and Samaria: settler attacks during the olive harvest, including at Abu Falah (a Washington Post photographer was beaten) and near Taybeh (European diplomats attacked); Israeli police arrested 10 people on 19 October.
-- Diaspora: the UK announced a public inquiry into the 2025 Manchester synagogue attack; an INSS report says Israeli policies strain Jewish communities abroad.
-- A Paris synagogue and Jewish-owned shops were damaged during French riots; the motive is disputed, with community security officials pointing to attempted robbery.
-_Updated 2026-10-20 from daily briefs 2026-10-14 to 2026-10-20._
+- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud; US Defense Secretary Hegseth met Netanyahu on 19 October.
+- Netanyahu reportedly told President Trump Israel has a "job to finish" in Iran; the US–Iran ceasefire is described as fragile.
+- Gaza: Israel announced the killing of a senior Hamas security officer and plans to resume commercial goods entry; the WFP said it will end monthly aid to 500,000 people.
+- Katz said areas of southern Lebanon could be seized if Hezbollah or Iran attack.
+- Judea and Samaria: settler attacks during the olive harvest, including near Taybeh; police arrested 10 people on 19 October, and a Palestinian official warned of an "explosion".
+- Diaspora: the UK announced an inquiry into the 2025 Manchester synagogue attack; a Paris synagogue and Jewish-owned shops were damaged in French riots, motive disputed.
+_Updated 2026-10-21 from daily briefs 2026-10-15 to 2026-10-21._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
