@@ -1,7 +1,56 @@
 {
  "version": 1,
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "items": [
+  {
+   "url": "https://today.lorientlejour.com/article/1551503/gaza-rescuers-hospitals-say-israeli-strikes-kill-seven.html",
+   "title": "Israeli strikes in Gaza reported to kill seven",
+   "title_key": "dd2a08078fac279d",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://newarab.com/news/israel-election-polls-forecast-stalemate-far-right-gains",
+   "title": "Polls forecast stalemate; Eisenkot's Yashar and Bennett gain",
+   "title_key": "bfd3aa976f8e1d0e",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://jpost.com/israel-news/defense-news/article-912361",
+   "title": "Netanyahu and Israel monitor an Iranian military buildup ahead of the election",
+   "title_key": "f540a126abf1fb3d",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://jpost.com/diaspora/antisemitism/article-912349",
+   "title": "Michigan Senate race: Rogers calls El-Sayed \"anti-Jew\"; local Jews' views divided",
+   "title_key": "f0f89ee998ae1087",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://jns.org/news/israel-news/netanyahu-lays-out-four-key-principles-for-post-election-government",
+   "title": "Netanyahu lays out four principles for a post-election government",
+   "title_key": "1325bceae3bbe05a",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://jfeed.com/news/netanyahu-ofer-winter-withdraw-knesset-race",
+   "title": "Netanyahu urges Amcha Yisrael chairman Ofer Winter to leave the race",
+   "title_key": "d7bbc07a0989aba5",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "url": "https://cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia",
+   "title": "Iran says indirect talks with the US on a seven-day ceasefire continue",
+   "title_key": "96b6e7239370962d",
+   "source": "",
+   "first_seen": "2026-10-22"
+  },
   {
    "url": "https://timesofisrael.com/liveblog-october-20-2026",
    "title": "IDF chief marks first officers from the Hasmonean Brigade for Haredi soldiers",
