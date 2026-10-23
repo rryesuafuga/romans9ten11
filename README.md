@@ -29,13 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of or level with Likud; Netanyahu set out four principles for a post-election government, including opposition to a Palestinian state.
-- Netanyahu reportedly told President Trump Israel has a "job to finish" in Iran; indirect US–Iran talks on a seven-day ceasefire and the Strait of Hormuz continue, and Israeli officials are monitoring an Iranian buildup.
-- Gaza: Israel announced the killing of a senior Hamas security officer and plans to resume commercial goods entry; further strikes were reported to kill seven; the WFP said it will end monthly aid to 500,000 people.
-- Katz said areas of southern Lebanon could be seized if Hezbollah or Iran attack.
-- Judea and Samaria: settler attacks during the olive harvest, including near Taybeh and Abu Falah, where a Washington Post photographer was beaten; police arrested 10 people on 19 October.
-- Diaspora: the UK announced an inquiry into the 2025 Manchester synagogue attack; a Paris synagogue was damaged in French riots, motive disputed; an INSS report says the war is straining Jewish communities abroad.
-_Updated 2026-10-22 from daily briefs 2026-10-16 to 2026-10-22._
+- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of or level with Likud; Benny Gantz's Blue and White quit the race, and Netanyahu set out four principles for a post-election government.
+- Campaign tension: Haaretz reported the father of a slain hostage assaulted at a Netanyahu campaign stop; the High Court barred real-time digital turnout reporting at polling stations.
+- Iran: indirect US–Iran talks on a seven-day ceasefire and the Strait of Hormuz continue, and Israeli officials are monitoring an Iranian buildup.
+- Gaza: Israel announced the killing of a senior Hamas security officer and plans to resume commercial goods entry; further strikes were reported to kill seven.
+- Judea and Samaria: settler attacks during the olive harvest, including on a Washington Post photographer and European diplomats; a court released nine of ten suspects to house arrest, and Israel moved to deport 11 foreign activists.
+- Diaspora: the UK announced an inquiry into the 2025 Manchester synagogue attack; a Paris synagogue was damaged in French riots, motive disputed; a Utah man was charged over an alleged synagogue bomb threat.
+_Updated 2026-10-23 from daily briefs 2026-10-17 to 2026-10-23._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

@@ -1,7 +1,42 @@
 {
  "version": 1,
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
+  {
+   "url": "https://timesofisrael.com/liveblog-october-22-2026",
+   "title": "Israel moves to deport 11 foreign activists over an uncoordinated olive harvest",
+   "title_key": "acc81c2a017cfb7e",
+   "source": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "url": "https://jpost.com/israel-election-2026/article-912624",
+   "title": "Ahmad Tibi outlines a plan to oust Netanyahu if neither bloc forms a majority",
+   "title_key": "f3ee36bda79eff79",
+   "source": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "url": "https://jns.org/news/israel-news/blue-and-white-partys-benny-gantz-quits-knesset-race",
+   "title": "Benny Gantz's Blue and White drops out of the Knesset race",
+   "title_key": "f11b3c7528f386d6",
+   "source": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-22/ty-article-live/democrats-party-activists-attacked-may-your-entire-family-burn/000001a1-6192-da49-abe9-6ffa72520000",
+   "title": "Father of a slain hostage reported assaulted at a Netanyahu campaign stop",
+   "title_key": "4655a88ccc1e0ceb",
+   "source": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify",
+   "title": "Court orders release of nine of ten settler suspects in attacks on a photojournalist and diplomats",
+   "title_key": "83e3ee7bfc7ddce2",
+   "source": "",
+   "first_seen": "2026-10-23"
+  },
   {
    "url": "https://today.lorientlejour.com/article/1551503/gaza-rescuers-hospitals-say-israeli-strikes-kill-seven.html",
    "title": "Israeli strikes in Gaza reported to kill seven",
