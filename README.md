@@ -29,13 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of or level with Likud; Benny Gantz's Blue and White quit the race, and Netanyahu set out four principles for a post-election government.
+- Israel's 27 October election: polls diverge (Maariv has the opposition ahead 54–48; Channel 14 gives Netanyahu's bloc 62); Blue and White quit the race; Netanyahu cancelled campaign events on 23 October.
+- Hebron: the IDF says it killed two gunmen and prevented a terror attack on 23 October; at least five were wounded, casualty reports differ, and a full West Bank closure was ordered.
 - Campaign tension: Haaretz reported the father of a slain hostage assaulted at a Netanyahu campaign stop; the High Court barred real-time digital turnout reporting at polling stations.
-- Iran: indirect US–Iran talks on a seven-day ceasefire and the Strait of Hormuz continue, and Israeli officials are monitoring an Iranian buildup.
-- Gaza: Israel announced the killing of a senior Hamas security officer and plans to resume commercial goods entry; further strikes were reported to kill seven.
-- Judea and Samaria: settler attacks during the olive harvest, including on a Washington Post photographer and European diplomats; a court released nine of ten suspects to house arrest, and Israel moved to deport 11 foreign activists.
-- Diaspora: the UK announced an inquiry into the 2025 Manchester synagogue attack; a Paris synagogue was damaged in French riots, motive disputed; a Utah man was charged over an alleged synagogue bomb threat.
-_Updated 2026-10-23 from daily briefs 2026-10-17 to 2026-10-23._
+- Iran: indirect US–Iran talks on a ceasefire and the Strait of Hormuz continue amid conflicting reports on possible strikes.
+- Gaza: Israeli strikes continue under the October 2025 ceasefire; the health ministry reports over 1,500 killed since.
+- Judea and Samaria: settler attacks during the olive harvest, including on diplomats and a photographer; nine of ten suspects released to house arrest; 36 Palestinians arrested in the West Bank.
+- Diaspora: a Utah man was indicted over an alleged synagogue bomb threat; the UK announced an inquiry into the 2025 Manchester synagogue attack.
+_Updated 2026-10-24 from daily briefs 2026-10-18 to 2026-10-24._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
