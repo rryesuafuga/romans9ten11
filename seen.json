@@ -1,7 +1,42 @@
 {
  "version": 1,
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "items": [
+  {
+   "url": "https://washingtontimes.com/news/2026/oct/24/israel-imposes-closures-across-west-bank-city-attacks",
+   "title": "Israel imposes closures across Hebron after attack that killed two soldiers",
+   "title_key": "50d974ed56934afe",
+   "source": "",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "url": "https://turkiyetoday.com/region/final-israeli-election-polls-leave-netanyahu-bloc-stuck-at-50-seats-short-of-majority-3230927",
+   "title": "Benny Gantz's party withdraws from the 27 October vote",
+   "title_key": "b0ff2af91505982f",
+   "source": "",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "url": "https://manilatimes.net/2026/10/24/world/americas-emea/west-bank-lockdown-ordered-after-attack/2452813",
+   "title": "Full West Bank closure ordered; Palestinian workers barred on election day",
+   "title_key": "b7b680c001fa02cb",
+   "source": "",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-24/ty-article-live/last-polls-before-election-put-eisenkot-ahead-of-netanyahu-as-both-lack-majority/000001a1-6b76-d9e6-a5b1-6f7fd3320000",
+   "title": "Last polls before Israel's election show neither bloc with a majority",
+   "title_key": "ce27b1e03f8a2048",
+   "source": "",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids",
+   "title": "More than 2,000 forced from homes in Hebron amid Israeli raids",
+   "title_key": "d87a903e59823525",
+   "source": "",
+   "first_seen": "2026-10-25"
+  },
   {
    "url": "https://sltrib.com/religion/2026/10/23/utah-accused-threatening-blow-up",
    "title": "Utah man indicted over alleged threat to blow up Ogden synagogue",
