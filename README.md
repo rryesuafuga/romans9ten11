@@ -29,15 +29,15 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: final polls show neither bloc at 61 seats (Haaretz: Eisenkot's party ahead of Likud); Gantz's party withdrew; earlier polls diverged.
-- Hebron: after an attack that left two soldiers dead (per AFP/Dawn), Israel closed the city; about 2,000 residents were displaced and a West Bank closure covers election day.
-- Hebron earlier: the IDF said it killed two gunmen and prevented a terror attack on 23 October; casualty reports differed.
+- Israel's 27 October election: final polls show neither bloc near 61 seats, with Eisenkot's Yashar ahead of Likud (Haaretz, Jerusalem Post); Gantz's party withdrew.
+- Election-day security: the IDF announced a general closure for West Bank Palestinians on 27 October (Haaretz).
+- Hebron: after the 23 October attack that killed two soldiers, Israel evacuated neighbourhoods and demolished homes; the PA put displacement at 2,670 while earlier figures were lower.
 - Campaign tension: Haaretz reported the father of a slain hostage assaulted at a Netanyahu campaign stop; the High Court barred real-time digital turnout reporting.
 - Iran: indirect US–Iran talks on a ceasefire and the Strait of Hormuz continue amid conflicting reports.
-- Gaza: Israeli strikes continue under the October 2025 ceasefire; the health ministry reports over 1,500 killed since.
+- Gaza: Israeli strikes continue under the October 2025 ceasefire; a Gaza City strike on 25 October reportedly killed three.
 - Judea and Samaria: settler attacks during the olive harvest; 36 Palestinians arrested in the West Bank.
-- Diaspora: a Utah man was indicted over an alleged synagogue bomb threat; the UK announced an inquiry into the 2025 Manchester synagogue attack.
-_Updated 2026-10-25 from daily briefs 2026-10-19 to 2026-10-25._
+- Diaspora: a Utah man was indicted over an alleged synagogue bomb plot; the UK announced an inquiry into the 2025 Manchester synagogue attack; Indian police probe a Kochi synagogue arson.
+_Updated 2026-10-26 from daily briefs 2026-10-20 to 2026-10-26._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

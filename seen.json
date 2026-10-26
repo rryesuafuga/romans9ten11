@@ -1,7 +1,42 @@
 {
  "version": 1,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "items": [
+  {
+   "url": "https://timesofisrael.com/liveblog-october-25-2026",
+   "title": "IDF says Gaza City strike was diverted to avoid bystanders; three reported killed",
+   "title_key": "9f60148b822d30ba",
+   "source": "",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "url": "https://rte.ie/news/world/2026/1023/1596560-israel-west-ban-gaza",
+   "title": "Israel demolishes homes in West Bank after fatal attack",
+   "title_key": "4adfaadd91b758a8",
+   "source": "",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "url": "https://organiser.org/2026/10/25/420617/bharat/kochi-synagogue-arson-accused-names-vikram-as-handler-boss-link-pakistani-angle-and-anti-semitism-under-probe",
+   "title": "Police in Kochi, India, probe possible antisemitic motive in synagogue arson case",
+   "title_key": "4c12948a8ef569a7",
+   "source": "",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "url": "https://jpost.com/israel-election-2026/article-912743",
+   "title": "Israel prepares to vote on 27 October with neither bloc near a majority",
+   "title_key": "5a3593039736d179",
+   "source": "",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002",
+   "title": "IDF announces general closure for West Bank Palestinians on election day",
+   "title_key": "ce602aaa1679f5c2",
+   "source": "",
+   "first_seen": "2026-10-26"
+  },
   {
    "url": "https://washingtontimes.com/news/2026/oct/24/israel-imposes-closures-across-west-bank-city-attacks",
    "title": "Israel imposes closures across Hebron after attack that killed two soldiers",
