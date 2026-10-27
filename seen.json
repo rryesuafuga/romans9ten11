@@ -1,7 +1,56 @@
 {
  "version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "items": [
+  {
+   "url": "https://timesofisrael.com/live",
+   "title": "Reports of dispute over a pre-election Iran strike plan",
+   "title_key": "1d3ef154747e39db",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://news.un.org/en/story/2026/10/1168672",
+   "title": "UN rights chief warns Hebron operation raises concerns of ethnic cleansing",
+   "title_key": "3957620baa81b097",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://news.un.org/en/story/2026/10/1168660",
+   "title": "UN secretary-general alarmed by sweeping closures after Hebron attack",
+   "title_key": "9c650b8dec2357b5",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://jpost.com/middle-east/iran-news/2026-10-25/live-updates-912732",
+   "title": "IDF says it killed four Hamas and Islamic Jihad operatives in weekend Gaza strikes",
+   "title_key": "d8399108f0c141c8",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://cnn.com/2026/10/25/us/nyc-jewish-attack-hate-crime",
+   "title": "Woman charged with hate crimes over attack on two Jewish men in New York",
+   "title_key": "f08ff0191198b807",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://cbsnews.com/news/israel-military-operation-west-bank-elections",
+   "title": "Israeli military closes West Bank crossings ahead of the election",
+   "title_key": "84ff48291bd01d7e",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "url": "https://aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault",
+   "title": "Hebron businesses count cost of the Israeli operation",
+   "title_key": "db2773a254fa4c81",
+   "source": "",
+   "first_seen": "2026-10-27"
+  },
   {
    "url": "https://timesofisrael.com/liveblog-october-25-2026",
    "title": "IDF says Gaza City strike was diverted to avoid bystanders; three reported killed",
