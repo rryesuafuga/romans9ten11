@@ -29,15 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: exit polls showed no clear winner, with neither bloc reaching 61 seats; turnout was 77.7%, the highest since 1999 (NBC News, NPR). Official results were pending.
-- Coalition outlook: weeks of negotiation or another election may follow (NPR).
-- Hebron: after the 23 October attack that killed two soldiers, the Israeli operation continued; displacement estimates range from about 3,000 to nearly 5,000, and the UN voiced alarm (UN News, Jerusalem Post).
-- West Bank closures were imposed around the election; residents protested the Hebron operation on election day.
-- Iran: Defence Minister Katz urged voters to back finishing the Iran campaign; reports of a dispute over a strike plan were denied (CBS News, Times of Israel).
-- Gaza: Israeli strikes continue under the ceasefire; the IDF said it killed four militants (Jerusalem Post).
-- Diaspora: Jewish leaders in several countries voiced anxiety over election fallout; progressive movements reaffirmed ties with Israel (Jerusalem Post, eJewishPhilanthropy).
-- Safety: a man was charged over a synagogue arson attempt in West Hempstead, NY (JNS); a woman was charged with hate crimes over an attack on two Jewish men in New York (CNN).
-_Updated 2026-10-28 from daily briefs 2026-10-22 to 2026-10-28._
+- Israel's 27 October election: with nearly all votes counted, Netanyahu's bloc had about 53 seats and Eisenkot's 48, Arab parties a record 19; neither reaches 61, and turnout was 77.7%, the highest since 1999 (Ynetnews, NPR).
+- Coalition outlook: weeks of negotiation, a caretaker period or another election may follow; markets dipped (CNBC, NPR).
+- Hebron: after the 23 October attack that killed two soldiers, the Israeli operation entered its fifth day; displacement estimates range from about 3,000 to nearly 5,000 (Jerusalem Post, Peace and Justice Post, UN).
+- Iran: the war is nearly eight months old; Defence Minister Katz urged voters to back finishing the campaign, and Trump said strikes after US midterms are possible (CBS News, Fox News).
+- Gaza and Lebanon: the IDF reported killing Hamas members in Gaza and intercepting an aerial target over south Lebanon (Jerusalem Post, Times of Israel).
+- Diaspora: Israel revoked travel authorisations for American rabbis and Brad Lander after a West Bank olive harvest; US groups reacted to election polls (JTA, Haaretz).
+- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); a man was charged over a synagogue arson attempt in West Hempstead, NY (JNS).
+_Updated 2026-10-29 from daily briefs 2026-10-23 to 2026-10-29._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

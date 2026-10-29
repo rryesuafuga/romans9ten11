@@ -1,7 +1,70 @@
 {
  "version": 1,
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "items": [
+  {
+   "url": "https://ynetnews.com/article/hjnatbkaml",
+   "title": "Election count: neither bloc reaches 61 seats",
+   "title_key": "5f858f1b9d07fbda",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog_entry/idf-says-it-launched-interceptor-at-target-over-south-lebanon",
+   "title": "IDF fires interceptor at aerial target over south Lebanon",
+   "title_key": "24731786fee9ca33",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://peaceandjusticepost.com/2026/10/28/israeli-siege-of-hebron-displaces-nearly-5000-palestinians-amid-west-bank-wide-lockdown",
+   "title": "Hebron operation enters fifth day; displacement reported near 5,000",
+   "title_key": "ff9348283e653d61",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://jta.org/2026/10/28/global/police-shoot-dead-assailant-outside-israeli-embassy-in-serbia",
+   "title": "Police shoot dead assailant outside Israeli Embassy in Serbia",
+   "title_key": "83585a33db41509d",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://jta.org/2026/10/27/israel/israel-revokes-travel-permissions-for-brad-lander-american-rabbis",
+   "title": "Israel revokes travel authorisations for American rabbis and Brad Lander after West Bank olive harvest",
+   "title_key": "301a2678f5e4699d",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://jpost.com/israel-news/defense-news/article-913087",
+   "title": "IDF says it killed Hamas members in Gaza, including an Oct. 7 kidnapper of Alexander Dancyg",
+   "title_key": "80540cf9f0325b65",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-10-28/ty-article/.premium/liberal-u-s-jewish-groups-hail-israeli-exit-polls-as-rebuke-to-netanyahu/000001a1-7f54-dbda-a9e5-ffde028a0000",
+   "title": "Liberal US Jewish groups welcome exit polls as rebuke to Netanyahu",
+   "title_key": "f17ad1e983dc0c10",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+   "title": "Trump says \"anything's possible\" on Iran strikes after US midterms",
+   "title_key": "cad0385acbe4f3b1",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "url": "https://cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "title": "Israeli bonds and shekel fall after inconclusive result",
+   "title_key": "394c79214285847b",
+   "source": "",
+   "first_seen": "2026-10-29"
+  },
   {
    "url": "https://npr.org/2026/10/27/nx-s1-6019381/israel-elections",
    "title": "Turnout of 77.7% is highest since 1999",
