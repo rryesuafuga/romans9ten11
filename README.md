@@ -29,14 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: with nearly all votes counted, Netanyahu's bloc had about 53 seats and Eisenkot's 48, Arab parties a record 19; neither reaches 61, and turnout was 77.7%, the highest since 1999 (Ynetnews, NPR).
-- Coalition outlook: weeks of negotiation, a caretaker period or another election may follow; markets dipped (CNBC, NPR).
-- Hebron: after the 23 October attack that killed two soldiers, the Israeli operation entered its fifth day; displacement estimates range from about 3,000 to nearly 5,000 (Jerusalem Post, Peace and Justice Post, UN).
-- Iran: the war is nearly eight months old; Defence Minister Katz urged voters to back finishing the campaign, and Trump said strikes after US midterms are possible (CBS News, Fox News).
+- Israel's 27 October election: the completed count leaves Netanyahu's bloc on about 53 seats and Eisenkot's on 48, with Arab-led parties at 19; neither reaches 61 and coalition talks or another election may follow (Al Jazeera, Jerusalem Post, ABC News).
+- Hebron: after the attack that killed two soldiers, the Israeli lockdown passed its first week; a UN spokesperson cited about 3,000 Palestinians still displaced, and Palestinian sources report wider West Bank raids (Al Jazeera).
+- Iran: the war is nearly eight months old; Trump said strikes after US midterms are possible (Fox News).
 - Gaza and Lebanon: the IDF reported killing Hamas members in Gaza and intercepting an aerial target over south Lebanon (Jerusalem Post, Times of Israel).
-- Diaspora: Israel revoked travel authorisations for American rabbis and Brad Lander after a West Bank olive harvest; US groups reacted to election polls (JTA, Haaretz).
-- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); a man was charged over a synagogue arson attempt in West Hempstead, NY (JNS).
-_Updated 2026-10-29 from daily briefs 2026-10-23 to 2026-10-29._
+- Diaspora: Israel revoked travel authorisations for American rabbis and Brad Lander after a West Bank olive harvest; a NJ Assembly member said Orthodox Jews were detained by ICE after voting as non-citizens (JTA).
+- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA).
+_Updated 2026-10-30 from daily briefs 2026-10-24 to 2026-10-30._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
