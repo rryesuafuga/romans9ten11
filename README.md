@@ -29,13 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Israel's 27 October election: the completed count leaves Netanyahu's bloc on about 53 seats and Eisenkot's on 48, with Arab-led parties at 19; neither reaches 61 and coalition talks or another election may follow (Al Jazeera, Jerusalem Post, ABC News).
-- Hebron: after the attack that killed two soldiers, the Israeli lockdown passed its first week; a UN spokesperson cited about 3,000 Palestinians still displaced, and Palestinian sources report wider West Bank raids (Al Jazeera).
-- Iran: the war is nearly eight months old; Trump said strikes after US midterms are possible (Fox News).
-- Gaza and Lebanon: the IDF reported killing Hamas members in Gaza and intercepting an aerial target over south Lebanon (Jerusalem Post, Times of Israel).
-- Diaspora: Israel revoked travel authorisations for American rabbis and Brad Lander after a West Bank olive harvest; a NJ Assembly member said Orthodox Jews were detained by ICE after voting as non-citizens (JTA).
-- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA).
-_Updated 2026-10-30 from daily briefs 2026-10-24 to 2026-10-30._
+- Election: final results leave neither Netanyahu's bloc (53) nor Eisenkot's (48) with 61 seats; Arab-led parties hold 19; the new Knesset is expected to be sworn in on 10 November (NBC News, Al Jazeera).
+- Judea and Samaria: a lockdown of Hebron after two soldiers were killed has displaced over 3,000 Palestinians per Al Jazeera; the Jerusalem Post reports home demolitions planned and new outposts announced.
+- Security: Israel continues strikes on Hezbollah targets in southern Lebanon without full-scale war; concern over a wider US-Iran escalation (Times of Israel, Al Jazeera).
+- Gaza: the IDF reported operations against Hamas members despite the ceasefire; Gaza's Health Ministry reports continued deaths (Jerusalem Post, Al Jazeera).
+- Diaspora: Israel revoked travel authorisations for American rabbis after a West Bank olive harvest; a NJ Assembly member said Orthodox Jews were detained by ICE after voting as non-citizens (JTA).
+- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); a Montreal synagogue was hit by apparent pellet-gun fire and a synagogue in Giessen, Germany, was targeted by arson (JNS).
+_Updated 2026-10-31 from daily briefs 2026-10-25 to 2026-10-31._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
