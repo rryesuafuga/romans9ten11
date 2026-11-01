@@ -35,7 +35,8 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 - Gaza: the IDF reported operations against Hamas members despite the ceasefire; Gaza's Health Ministry reports continued deaths (Jerusalem Post, Al Jazeera).
 - Diaspora: Israel revoked travel authorisations for American rabbis after a West Bank olive harvest; a NJ Assembly member said Orthodox Jews were detained by ICE after voting as non-citizens (JTA).
 - Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); a Montreal synagogue was hit by apparent pellet-gun fire and a synagogue in Giessen, Germany, was targeted by arson (JNS).
-_Updated 2026-10-31 from daily briefs 2026-10-25 to 2026-10-31._
+- Politics (1 Nov): the Joint List says it will not join a government but will not block one; Eisenkot has rejected serving under Netanyahu, and a new election is possible if talks stall (Jerusalem Post).
+_Updated 2026-11-01 from daily briefs 2026-10-26 to 2026-11-01._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

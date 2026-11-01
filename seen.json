@@ -1,7 +1,35 @@
 {
  "version": 1,
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "items": [
+  {
+   "url": "https://middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-olive-harvesters-build-new-outpost-hebron-siege",
+   "title": "Settlers reported to attack olive harvesters near Hebron as lockdown continues",
+   "title_key": "315433329b8d8e1d",
+   "source": "",
+   "first_seen": "2026-11-01"
+  },
+  {
+   "url": "https://jpost.com/tags/hamas-ceasefire",
+   "title": "IDF says it struck Hamas members in Gaza, citing ceasefire violations",
+   "title_key": "3ffa35969294d884",
+   "source": "",
+   "first_seen": "2026-11-01"
+  },
+  {
+   "url": "https://jpost.com/israel-election-2026/article-913414",
+   "title": "Joint List says it will stay out of any government but will not block one",
+   "title_key": "ccb16bcb15589755",
+   "source": "",
+   "first_seen": "2026-11-01"
+  },
+  {
+   "url": "https://jpost.com/israel-election-2026/article-913122",
+   "title": "Opposition and Netanyahu bloc positions after the 53–48 result",
+   "title_key": "67b10df4e64f3ae2",
+   "source": "",
+   "first_seen": "2026-11-01"
+  },
   {
    "url": "https://timesofisrael.com/hezbollah-rearming-for-possible-renewed-conflict-with-israel-lebanese-sources-say",
    "title": "Israel continues strikes on Hezbollah targets in southern Lebanon",
