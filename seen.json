@@ -1,7 +1,35 @@
 {
  "version": 1,
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "items": [
+  {
+   "url": "https://thecjn.ca/news/police-investigating-broken-windows-at-montreal-synagogue-as-potential-hate-crime",
+   "title": "Montreal police investigate broken windows at Westmount synagogue as possible hate crime",
+   "title_key": "ae59813ca27fa3b3",
+   "source": "",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "url": "https://jta.org/2026/11/01/global/what-happened-when-isaac-herzog-asked-150-jews-to-solve-their-peoples-problems",
+   "title": "Herzog convenes 150 Jews from Israel and the diaspora on shared challenges",
+   "title_key": "4fa5479d861c41b5",
+   "source": "",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "url": "https://jfeed.com/news/eisenkot-first-mandate-herzog-consultations",
+   "title": "Eisenkot expected to receive first mandate as Herzog opens consultations",
+   "title_key": "518d5e01bc9f9eb7",
+   "source": "",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "url": "https://english.palinfo.com/news/2026/11/01/372936",
+   "title": "OCHA: record 397 West Bank settler attacks in October",
+   "title_key": "ed14c45378c3057e",
+   "source": "",
+   "first_seen": "2026-11-02"
+  },
   {
    "url": "https://middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-olive-harvesters-build-new-outpost-hebron-siege",
    "title": "Settlers reported to attack olive harvesters near Hebron as lockdown continues",

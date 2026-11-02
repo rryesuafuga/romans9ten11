@@ -29,14 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: final results leave neither Netanyahu's bloc (53) nor Eisenkot's (48) with 61 seats; Arab-led parties hold 19; the new Knesset is expected to be sworn in on 10 November (NBC News, Al Jazeera).
-- Judea and Samaria: a lockdown of Hebron after two soldiers were killed has displaced over 3,000 Palestinians per Al Jazeera; the Jerusalem Post reports home demolitions planned and new outposts announced.
+- Election: final results leave neither Netanyahu's bloc (53) nor Eisenkot's (48) with 61 seats; Arab-led parties hold 19; President Herzog's consultations begin, with Eisenkot expected to get the first mandate, and the new Knesset is expected to be sworn in on 10 November (Jerusalem Post, JFeed).
+- Judea and Samaria: a lockdown of Hebron after two soldiers were killed has displaced over 3,000 Palestinians per Al Jazeera; Palinfo cites UN OCHA counting a record 397 settler attacks in October (Palestinian-sourced).
 - Security: Israel continues strikes on Hezbollah targets in southern Lebanon without full-scale war; concern over a wider US-Iran escalation (Times of Israel, Al Jazeera).
 - Gaza: the IDF reported operations against Hamas members despite the ceasefire; Gaza's Health Ministry reports continued deaths (Jerusalem Post, Al Jazeera).
-- Diaspora: Israel revoked travel authorisations for American rabbis after a West Bank olive harvest; a NJ Assembly member said Orthodox Jews were detained by ICE after voting as non-citizens (JTA).
-- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); a Montreal synagogue was hit by apparent pellet-gun fire and a synagogue in Giessen, Germany, was targeted by arson (JNS).
-- Politics (1 Nov): the Joint List says it will not join a government but will not block one; Eisenkot has rejected serving under Netanyahu, and a new election is possible if talks stall (Jerusalem Post).
-_Updated 2026-11-01 from daily briefs 2026-10-26 to 2026-11-01._
+- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism and Israel–diaspora ties; Israel revoked travel authorisations for American rabbis after a West Bank olive harvest (JTA).
+- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); Montreal police are investigating broken windows at a Westmount synagogue as a possible hate crime, and a synagogue in Giessen, Germany, was targeted by arson (CJN, JNS).
+_Updated 2026-11-02 from daily briefs 2026-10-27 to 2026-11-02._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
