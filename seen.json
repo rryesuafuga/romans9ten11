@@ -1,7 +1,56 @@
 {
  "version": 1,
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
+  {
+   "url": "https://yahoo.com/news/us/articles/police-searching-person-accused-antisemitic-213257682.html",
+   "title": "Washington police seek suspect over antisemitic writing at Adas Israel Congregation",
+   "title_key": "089d018c0f737505",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog-november-1-2026-2",
+   "title": "Qatari mediators in Tehran for talks on a US–Iran deal",
+   "title_key": "3f823eca2fb282ba",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://thecjn.ca/news/belleville-synagogue-attack-prompts-calls-for-more-security-funding-action-on-radicalization",
+   "title": "Belleville synagogue shooting survivors urge action on Parliament Hill",
+   "title_key": "2302f8ace6ddd733",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://tbsnews.net/worldbiz/middle-east/displaced-palestinians-return-damaged-hebron-quarter-as-israeli-troops-withdraw",
+   "title": "Displaced Palestinians return to Hebron quarter as Israeli troops withdraw",
+   "title_key": "674294909bef3b98",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://jpost.com/israel-news/defense-news/article-905483",
+   "title": "IDF says strikes killed six Hamas operatives in Gaza; soldier killed in northern Gaza",
+   "title_key": "557983a28bca6b04",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/netanyahu-israelis-dont-want-govt-with-arab-parties-that-support-terror/000001a1-9d8b-d02e-abe7-dd8f38fe0000",
+   "title": "Netanyahu says he wants a \"broad government\" without Arab parties",
+   "title_key": "76c09da0178e8acd",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "url": "https://cnn.com/2026/11/02/middleeast/netanyahu-elections-stolen-claims-intl",
+   "title": "Netanyahu alleges the election was \"stolen\" by Arab parties; Eisenkot rejects the claim",
+   "title_key": "3cd9e73323b327d0",
+   "source": "",
+   "first_seen": "2026-11-03"
+  },
   {
    "url": "https://thecjn.ca/news/police-investigating-broken-windows-at-montreal-synagogue-as-potential-hate-crime",
    "title": "Montreal police investigate broken windows at Westmount synagogue as possible hate crime",

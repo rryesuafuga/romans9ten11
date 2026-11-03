@@ -29,13 +29,12 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: final results leave neither Netanyahu's bloc (53) nor Eisenkot's (48) with 61 seats; Arab-led parties hold 19; President Herzog's consultations begin, with Eisenkot expected to get the first mandate, and the new Knesset is expected to be sworn in on 10 November (Jerusalem Post, JFeed).
-- Judea and Samaria: a lockdown of Hebron after two soldiers were killed has displaced over 3,000 Palestinians per Al Jazeera; Palinfo cites UN OCHA counting a record 397 settler attacks in October (Palestinian-sourced).
-- Security: Israel continues strikes on Hezbollah targets in southern Lebanon without full-scale war; concern over a wider US-Iran escalation (Times of Israel, Al Jazeera).
-- Gaza: the IDF reported operations against Hamas members despite the ceasefire; Gaza's Health Ministry reports continued deaths (Jerusalem Post, Al Jazeera).
-- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism and Israel–diaspora ties; Israel revoked travel authorisations for American rabbis after a West Bank olive harvest (JTA).
-- Safety: an assailant was shot dead after attacking a guard at the Israeli Embassy in Belgrade (JTA); Montreal police are investigating broken windows at a Westmount synagogue as a possible hate crime, and a synagogue in Giessen, Germany, was targeted by arson (CJN, JNS).
-_Updated 2026-11-02 from daily briefs 2026-10-27 to 2026-11-02._
+- Election: neither bloc has 61 seats (Netanyahu's 53, anti-Netanyahu parties 67 including Arab-led parties); Netanyahu alleges the vote was "stolen" and Eisenkot rejects this; Bennett and Golan pledge to back Eisenkot; Herzog's consultations are under way (CNN, Haaretz, JFeed).
+- Judea and Samaria: the 10-day Hebron operation ended on 2 November, with over 3,000 displaced per the UN; 18 settlers were arrested after a riot at an outpost evacuation; Palinfo cites OCHA counting 397 settler attacks in October (Palestinian-sourced).
+- Security: Israel continues strikes on Hamas in Gaza (six operatives killed; one IDF soldier killed) and operations against Hezbollah in southern Lebanon; Qatari mediators are in Tehran on a US-Iran deal (Jerusalem Post, Times of Israel).
+- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism and Israel-diaspora ties (JTA); Belleville synagogue shooting survivors lobbied Parliament for security funding (CJN).
+- Safety: an assailant was shot after attacking a guard at the Israeli Embassy in Belgrade (JTA); Montreal police are investigating broken windows at a synagogue as a possible hate crime (CJN); Washington police seek a suspect over antisemitic writing at a synagogue.
+_Updated 2026-11-03 from daily briefs 2026-10-28 to 2026-11-03._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
