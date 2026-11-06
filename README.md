@@ -29,12 +29,12 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: neither bloc has 61 seats; opposition leaders back Eisenkot for prime minister with a "national emergency government" aim, while Netanyahu, who alleges the vote was "stolen", seeks a "broad national government"; Herzog is consulting party leaders and a new election is possible if none succeeds (Al Jazeera, CNN, ABC News).
-- Judea and Samaria: the 10-day Hebron operation ended on 2 November (over 3,000 displaced per the UN); 18 settlers were arrested after an outpost-evacuation riot; Israeli families moved into eight homes in Diyuk near Jericho; Palestinian sources cite 397 settler attacks in October (largely Palestinian-sourced).
-- Security: Israel continues strikes on Hamas in Gaza and operations against Hezbollah; IDF chief Zamir warned Hezbollah against rebuilding near the border; Qatari mediators are in Tehran on a US-Iran deal.
+- Election: Herzog's consultations ended with 67 Knesset recommendations for Gadi Eisenkot and 46 for Netanyahu; the Joint List backed Eisenkot, United Torah Judaism did not recommend Netanyahu, and Herzog is to assign the mandate on Sunday. Netanyahu, who alleges the vote was "stolen", seeks a "broad national government"; a new election is possible if none succeeds (Al Jazeera, INN, France 24).
+- Judea and Samaria: the 10-day Hebron operation ended on 2 November (over 3,000 displaced per the UN); settlers moved into homes near Jericho and clashes followed an IDF raid on an outpost; Palestinian sources cite 397 settler attacks in October (largely Palestinian-sourced).
+- Security: the IDF reports finding over 340 Hezbollah weapons in southern Lebanon and struck suspects near Qabrikha; IDF chief Zamir warned Hezbollah against rebuilding near the border; Israel continues strikes on Hamas in Gaza.
 - Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism (JTA); Belleville synagogue shooting survivors lobbied Parliament for security funding (CJN).
-- Safety: Montreal's Temple Emanu-El-Beth Sholom was hit again, possibly by pellet gunfire; an assailant was shot after attacking a guard at the Israeli Embassy in Belgrade; Washington police seek a suspect over antisemitic writing at a synagogue.
-_Updated 2026-11-05 from daily briefs 2026-10-30 to 2026-11-05._
+- Safety: a brick was thrown through a Brussels synagogue window; Montreal's Temple Emanu-El-Beth Sholom was hit again; Israel's Diaspora Ministry warns synagogue attacks are growing more lethal ahead of the Kristallnacht anniversary.
+_Updated 2026-11-06 from daily briefs 2026-10-31 to 2026-11-06._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
