@@ -29,12 +29,12 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: Herzog's consultations ended with 67 Knesset recommendations for Gadi Eisenkot and 46 for Netanyahu; the Joint List backed Eisenkot, United Torah Judaism did not recommend Netanyahu, and Herzog is to assign the mandate on Sunday. Netanyahu, who alleges the vote was "stolen", seeks a "broad national government"; a new election is possible if none succeeds (Al Jazeera, INN, France 24).
-- Judea and Samaria: the 10-day Hebron operation ended on 2 November (over 3,000 displaced per the UN); settlers moved into homes near Jericho and clashes followed an IDF raid on an outpost; Palestinian sources cite 397 settler attacks in October (largely Palestinian-sourced).
-- Security: the IDF reports finding over 340 Hezbollah weapons in southern Lebanon and struck suspects near Qabrikha; IDF chief Zamir warned Hezbollah against rebuilding near the border; Israel continues strikes on Hamas in Gaza.
-- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism (JTA); Belleville synagogue shooting survivors lobbied Parliament for security funding (CJN).
-- Safety: a brick was thrown through a Brussels synagogue window; Montreal's Temple Emanu-El-Beth Sholom was hit again; Israel's Diaspora Ministry warns synagogue attacks are growing more lethal ahead of the Kristallnacht anniversary.
-_Updated 2026-11-06 from daily briefs 2026-10-31 to 2026-11-06._
+- Election: Herzog's consultations ended with 67 Knesset recommendations for Gadi Eisenkot and 46 for Netanyahu; the Joint List backed Eisenkot and United Torah Judaism did not recommend Netanyahu. Netanyahu warned against an Arab–Jewish coalition; Herzog is to assign the mandate on Sunday 8 November (Al Jazeera, INN, Haaretz).
+- Judea and Samaria: the 10-day Hebron operation ended on 2 November (over 3,000 displaced per the UN); settlers moved into homes near Jericho and clashes followed an IDF raid on an outpost.
+- Security: the IDF reports finding over 340 Hezbollah weapons in southern Lebanon and struck suspects near Qabrikha; the Gaza truce continues with disputed incidents.
+- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism (JTA); about 6,500 Chabad rabbis met in Brooklyn; a Kristallnacht survivor addressed German police leaders.
+- Safety: Israel's Diaspora Ministry warns synagogue attacks are growing more lethal ahead of the Kristallnacht anniversary; a Berlin report counts 244 attacks and threats on Jewish places of worship in 34 countries since October 2023; a Philadelphia ride targeting Jewish businesses on 8 November drew condemnation.
+_Updated 2026-11-07 from daily briefs 2026-11-01 to 2026-11-07._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
