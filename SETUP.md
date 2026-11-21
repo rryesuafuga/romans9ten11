@@ -20,12 +20,14 @@ week of runs.
 
 | Setting | Value |
 |---|---|
-| Name | Israel daily news brief + prayer guide (03:07 EAT) |
-| Routine ID | `trig_01QgPz7yXwnDBAADVEVqdqGx` |
+| Name | Israel daily news brief + prayer guide (03:07 EAT, Opus, no prompts) |
+| Routine ID | `trig_015yx4YDpTgxC1A32khSdsPh` |
 | Schedule | `CRON_TZ=Africa/Kampala 7 3 * * *` (daily 03:07 EAT; Uganda has no daylight saving) |
 | How a run starts | The routine wakes the **dispatcher** session, which starts one fresh **worker** session with this repository attached and push access to `main` |
-| Dispatcher | session "romans9ten11 daily dispatcher (do not archive)", Haiku 4.5, only starts the worker |
-| Worker | session "romans9ten11 daily brief + prayer guide", Sonnet 5.5 (chosen to keep daily usage economical), follows `routine/PROMPT.md` |
+| Dispatcher | session "romans9ten11 daily dispatcher v2 (do not archive)", Opus 5.5, Auto mode, this repository attached; it only starts the worker |
+| Worker | session "romans9ten11 daily brief + prayer guide", Opus 5.5, Auto mode, follows `routine/PROMPT.md` |
+| Models | Opus 5.5 or Fable 5.1 by default; Sonnet only occasionally; never Haiku (owner's choice, 21 November) |
+| Permissions | Auto mode, plus `.claude/settings.json`, which pre-approves `create_session` and push notifications so no run waits for an approval tap |
 | Environment | **Default** |
 | Notifications | the worker sends its final `Run complete` / `Run FAILED` line as a push notification |
 
@@ -34,14 +36,20 @@ attach a repository, so its runs can read the public repo but cannot push.
 The first test run on 3 October hit exactly that (`403 ... not in this
 session's authorized repository set`). A session started with
 `create_session` can attach the repository with push access to `main`, and
-the dispatcher does that each day. The second test run, started the same way,
-pushed the 4 October brief and guide to `main`.
+the dispatcher does that each day.
+
+**Why the dispatcher has the repository attached.** From early November,
+starting a worker asked for approval every time, and the first dispatcher had
+no repository, so it could not read allow rules. Runs waited for a tap: 4 and
+8 to 20 November never ran, and 3, 5 and 6 November ran late. Cloud sessions
+read allow rules from `.claude/settings.json` only when one repository is
+attached, so the v2 dispatcher (21 November) has this repository attached and
+starts workers without asking. The old routine
+(`trig_01QgPz7yXwnDBAADVEVqdqGx`) is paused and renamed "RETIRED".
 
 **Do not archive or delete the dispatcher session.** The routine delivers its
-daily message to it. If it is gone, ask Claude to create a new dispatcher and
-point the routine at it, or create the routine from
-<https://claude.ai/code/routines> with this repository attached and the
-worker prompt from the routine.
+daily message to it. If it is gone, ask Claude to create a new dispatcher with
+this repository attached and point a routine at it.
 
 You can pause the routine or change the time from your routines list at
 <https://claude.ai/code/routines>.
@@ -52,9 +60,10 @@ the worker, so it only reports `Dispatch FAILED` (tested on 8 October). To get
 an extra run, either ask Claude in a session with this repository to start a
 worker with the settings in the routine's prompt, or open the dispatcher
 session and ask it to dispatch one worker now. A second run on the same
-Uganda date merges new stories into that day's brief and rebuilds the guide. The worker's model is set
-inside the routine's prompt (`model: claude-sonnet-5-5`); change that line to
-use a different model.
+Uganda date merges new stories into that day's brief and rebuilds the guide.
+The worker's model is set inside the routine's prompt
+(`model: claude-opus-5-5`); change that line to `claude-fable-5-1` to use
+Fable.
 
 To change what a run does, edit `routine/PROMPT.md` (the full instructions),
 `prayer/README.md` (how prayers are written) or `daily/README.md` (brief
@@ -75,6 +84,7 @@ format) and push to `main`. The next run picks up the change.
 | `prayer/README.md`, `prayer/scripture-bank.md` | Guide rules and 376 verified passages by theme. |
 | `daily/`, `prayer/` | One brief and one guide (three files) per day. |
 | `seen.json` | Stories already covered. |
+| `.claude/settings.json` | Pre-approves `create_session` and push notifications for sessions on this repository, so the daily run never waits for an approval tap. |
 | `README.md` | "Latest" links and a rolling 7-day summary, both rewritten by each run. |
 
 ## One thing to do: let the run reach the news feeds
