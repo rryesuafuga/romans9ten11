@@ -29,12 +29,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: Herzog's consultations ended with 67 Knesset recommendations for Gadi Eisenkot and 46 for Netanyahu; the Joint List backed Eisenkot and United Torah Judaism did not recommend Netanyahu. Netanyahu warned against an Arab–Jewish coalition; Herzog is to assign the mandate on Sunday 8 November (Al Jazeera, INN, Haaretz).
-- Judea and Samaria: the 10-day Hebron operation ended on 2 November (over 3,000 displaced per the UN); settlers moved into homes near Jericho and clashes followed an IDF raid on an outpost.
-- Security: the IDF reports finding over 340 Hezbollah weapons in southern Lebanon and struck suspects near Qabrikha; the Gaza truce continues with disputed incidents.
-- Diaspora: Herzog convened 150 Jews from Israel and abroad on antisemitism (JTA); about 6,500 Chabad rabbis met in Brooklyn; a Kristallnacht survivor addressed German police leaders.
-- Safety: Israel's Diaspora Ministry warns synagogue attacks are growing more lethal ahead of the Kristallnacht anniversary; a Berlin report counts 244 attacks and threats on Jewish places of worship in 34 countries since October 2023; a Philadelphia ride targeting Jewish businesses on 8 November drew condemnation.
-_Updated 2026-11-07 from daily briefs 2026-11-01 to 2026-11-07._
+- Election: Gadi Eisenkot received Herzog's mandate on 8 November; coalition talks are stalled over Netanyahu's role, and on 20 November Eisenkot outlined three paths to a government, including a minority "national emergency government" (JTA, Times of Israel).
+- Iran: Haaretz reports Netanyahu is pressing to resume the Iran front while the IDF is sceptical; Arab states voiced concern about renewed US–Iran hostilities.
+- Lebanon: the IDF struck a former Hezbollah missile site in the east on 19 November; Hezbollah reportedly wants to stay out of any new Iran war.
+- Gaza: a Board of Peace official warned Gaza could be handed to the UN if Israeli intransigence continues (Times of Israel).
+- Judea and Samaria: a settlement security coordinator shot dead an unarmed Palestinian; the IDF is reviewing. The UN counts over 400 settler attacks since September.
+- Safety: police in Ontario seek a suspect over damage to a Richmond Hill synagogue; a mosque in Ed-Dahi was set alight with Hebrew graffiti.
+_Updated 2026-11-21 from daily briefs 2026-11-07 to 2026-11-21._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
