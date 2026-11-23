@@ -29,13 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: Gadi Eisenkot holds Herzog's mandate until 6 December; with talks stalled over Netanyahu's role, he says he will bring a minority "national emergency" government to a Knesset vote, possibly by 28–29 November (Jerusalem Post, Haaretz, JTA).
-- Iran: Haaretz reports Netanyahu is pressing to resume the Iran front while the IDF is sceptical; Israel is reported to be pressing Lebanon to keep Hezbollah out of any renewed war.
-- Lebanon: the IDF struck a Hezbollah missile site in the east on 19 November, and Lebanon's news agency reported strikes across four southern districts overnight on 20–21 November.
+- Election: Gadi Eisenkot holds Herzog's mandate until 6 December and says he will bring a "national emergency" government to a Knesset vote, possibly by 28–29 November, even without a majority; talks with Likud have stalled over Netanyahu's role (Jerusalem Post, Haaretz, JTA).
+- Iran: Haaretz reports Netanyahu is pressing to resume the Iran front while the IDF is sceptical; Times of Israel carries reports of Iranian attacks on a civilian site in Bahrain.
+- Lebanon: Israel reported strikes on Hezbollah sites in the east and south; President Aoun demanded Israeli withdrawal and criticised Iran's interference, and the prime minister condemned an IDF spokeswoman's school visit (Al Jazeera, Times of Israel).
 - Gaza: a Board of Peace official warned Gaza could be handed to the UN if Israeli intransigence continues (Times of Israel).
-- Judea and Samaria: UN agencies report a record of more than 400 settler attacks during the olive harvest; a settlement security coordinator shot dead an unarmed Palestinian, and settlers attacked homes in Atara after an outpost was evacuated.
-- Safety: police in Ontario seek a suspect over damage to a Richmond Hill synagogue; comedian Bowen Yang apologised for using the slur "Zio".
-_Updated 2026-11-22 from daily briefs 2026-11-07 to 2026-11-22._
+- Judea and Samaria: UN agencies report a record of more than 400 settler attacks during the olive harvest; overnight arson in several Palestinian villages on 22 November drew Eisenkot's description of "Jewish terrorism", which a settler leader rejected while condemning the attacks (CNN, Times of Israel).
+- Society: Haredi protesters blocked a Jerusalem road over the jailing of yeshiva students who ignored recruitment orders.
+- Diaspora and safety: about 1,500 Jewish teens rallied at the Eiffel Tower (JNS); police in Ontario seek a suspect over damage to a Richmond Hill synagogue; comedian Bowen Yang apologised for using the slur "Zio".
+_Updated 2026-11-23 from daily briefs 2026-11-21 to 2026-11-23._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
