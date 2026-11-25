@@ -30,13 +30,13 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 
 <!-- ROLLING_SUMMARY_START -->
 - Election: Gadi Eisenkot holds Herzog's mandate until 6 December; his bloc elected Yashar's Matan Kahana as Knesset speaker and is advancing bills, including limits on indicted prime ministers, before a government is formed (JTA, Jerusalem Post).
-- Coalition talks: Yashar and Likud teams kept meeting, but Haaretz reports no agreement; Eisenkot and Bennett reportedly differ over a deadline for Likud, and Democrats leader Golan urged an end to the talks (Times of Israel, Haaretz).
-- Iran: Eisenkot says there is no immediate threat requiring action before a new government; i24NEWS relays a report that IDF intelligence warned a strike could set off a multi-front war; earlier, Iranian attacks on a civilian site in Bahrain were reported.
-- Lebanon and Gaza: Israel reported strikes on Hezbollah sites and President Aoun demanded Israeli withdrawal (Al Jazeera); Palestinian media reported three dead in a strike in Gaza City that the IDF said targeted an operative (Times of Israel).
-- Judea and Samaria: UN agencies report a record of more than 400 settler attacks during the olive harvest; overnight arson in several Palestinian villages on 22 November drew Eisenkot's "Jewish terrorism" description, and President Herzog called settler violence a "terrible moral stain" (CNN, Jewish News).
-- Society: Haredi protesters blocked a Jerusalem road over the jailing of yeshiva students who ignored recruitment orders (Times of Israel).
-- Diaspora and safety: about 1,500 Jewish teens rallied at the Eiffel Tower (JNS); Herzog warned that Jewish communities in European capitals live in fear; police in Ontario sought a suspect over damage to a Richmond Hill synagogue.
-_Updated 2026-11-24 from daily briefs 2026-11-21 to 2026-11-24._
+- Coalition: on 24 November Yashar reached its first coalition agreement, with Liberman's Yisrael Beytenu, while Golan's Democrats halted talks over Yashar's unity negotiations with Likud; Kan reports Eisenkot may announce a coalition suddenly and call a quick vote (Reuters, Times of Israel).
+- Haredi parties: UTJ lawmakers are reported to be seeking rabbinic approval to negotiate with Eisenkot's bloc, and Netanyahu reportedly failed to secure talks with them; earlier, Haredi protesters blocked a Jerusalem road over jailed yeshiva students (Times of Israel).
+- Iran: Eisenkot and Liberman say there is no basis for a strike before a new government, while Defence Minister Katz urged action to stop Iranian chemical weapons; i24NEWS relayed a report that IDF intelligence warned of a multi-front war (Haaretz, Jerusalem Post).
+- Gaza and Lebanon: the IDF and Shin Bet said a strike killed the head of Hamas internal security in Gaza City, with medics reporting six others dead; Israeli strikes continued in southern Lebanon as President Aoun demanded withdrawal (Jerusalem Post, Al Jazeera).
+- Judea and Samaria: overnight settler arson in several Palestinian villages on 22 November drew Eisenkot's "Jewish terrorism" description and Herzog's "terrible moral stain" remark; Katz said the IDF is ready to evacuate areas in response to terrorism (CNN, Jewish News, Jerusalem Post).
+- Diaspora and safety: Russia's FSB said it foiled a plot against a synagogue in Kislovodsk; Chief Rabbi Mirvis told MEPs that European Israel policies affect Jews' lives; about 1,500 Jewish teens rallied at the Eiffel Tower (Israel Hayom, Jewish Chronicle, JNS).
+_Updated 2026-11-25 from daily briefs 2026-11-21 to 2026-11-25._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive
