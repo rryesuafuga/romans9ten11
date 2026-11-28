@@ -29,15 +29,14 @@ Every day at 03:07 Uganda time (00:07 UTC) a Claude Code routine:
 ## Rolling summary (last 7 days)
 
 <!-- ROLLING_SUMMARY_START -->
-- Election: Gadi Eisenkot holds Herzog's mandate until 6 December, with a possible 14-day extension; his bloc elected Yashar's Matan Kahana as Knesset speaker (JTA, Jerusalem Post).
-- Coalition: Yashar reached agreements with Liberman's Yisrael Beytenu on 24 November and, after talks resumed, with Golan's Democrats on 26 November; the bloc and partners hold 48 seats, and Ra'am's Mansour Abbas claimed a government would include Ra'am and UTJ (Reuters, Jerusalem Post).
-- Haredi draft: UTJ lawmakers are reported to be seeking rabbinic approval to negotiate with Eisenkot's bloc; Haredi protesters blocked an entrance to Ben-Gurion Airport on 26 November over arrests of yeshiva draft evaders (Times of Israel, Jerusalem Post).
-- Iran: Defence Minister Katz urged action to stop Iranian chemical weapons while Eisenkot and Liberman see no basis for a strike before a new government; Arab officials warned of a return to full-scale US–Iran war (Jerusalem Post, The National).
-- Gaza: the IDF and Shin Bet said strikes killed the head of Hamas internal security and, a day later, his successor; Kushner pressed Netanyahu to advance the US Gaza plan (Jerusalem Post, Ynetnews, Axios).
-- Lebanon: Israeli strikes continued in the southern Lebanon buffer zone as President Aoun demanded withdrawal (Times of Israel, Al Jazeera).
-- Judea and Samaria: after the 22 November settler arson, settlers were reported damaging Palestinian homes in Jaloud and elsewhere in defiance of court orders, and flooding an ancient mikveh near Jericho (CNN, Reuters, Haaretz).
-- Diaspora and safety: Germany arrested two Iraqis over an alleged Iran-linked Cologne synagogue plot; Russia's FSB said it foiled a plot in Kislovodsk; gravestones were smashed in Reni, Ukraine; Iraqi Jews sued to reclaim the Tomb of Ezra (Reuters, Israel Hayom, Jerusalem Post).
-_Updated 2026-11-27 from daily briefs 2026-11-21 to 2026-11-27._
+- Election: Gadi Eisenkot holds Herzog's mandate until 6 December, with a possible 14-day extension; his Yashar bloc reached deals with Liberman's Yisrael Beytenu and Golan's Democrats and holds 48 seats, short of 61 (Reuters, Al Jazeera, Times of Israel).
+- Paths to a majority: UTJ's rabbis were reported to back formal talks and Yashar and UTJ to agree draft-law principles, which Yashar called partly inaccurate; Ra'am's Mansour Abbas was reported ready to recognise Hamas as a terror group; Eisenkot accused Likud of stalling while Netanyahu was reported to weigh a rotation offer (Times of Israel, Al Jazeera, i24NEWS).
+- Haredi draft: protesters blocked an entrance to Ben-Gurion Airport on 26 November over arrests of yeshiva draft evaders (Times of Israel, Jerusalem Post).
+- Gaza: Israel confirmed strikes that killed two successive Hamas internal security chiefs and economy and education head Khaled Abu Nada; Hamas's al-Hayya said it was consulting factions on a response, and Kushner pressed Netanyahu to advance the US Gaza plan (Jerusalem Post, Ynetnews, Axios).
+- Lebanon and Iran: Israeli strikes continued in southern Lebanon and the Beqaa as President Aoun demanded withdrawal; Arab officials warned of a return to full-scale US–Iran war (Arab American News, The National).
+- Judea and Samaria: after the 22 November settler arson, settlers were reported damaging Palestinian homes in Jaloud in defiance of court orders; the Shin Bet said Jewish participants in attacks had doubled to about 600 (Reuters, Haaretz, Jerusalem Post).
+- Diaspora and safety: Germany arrested two Iraqis over an alleged Iran-linked Cologne synagogue plot; Australia sanctioned two men over the 2024 Iran-linked arson attacks; Scottish Jewish bodies criticised the police response to a protest at Giffnock synagogue; Iraqi Jews sued to reclaim the Tomb of Ezra (Reuters, Al Jazeera, Jewish News, Jerusalem Post).
+_Updated 2026-11-28 from daily briefs 2026-11-22 to 2026-11-28._
 <!-- ROLLING_SUMMARY_END -->
 
 ## Archive

@@ -1,7 +1,126 @@
 {
  "version": 1,
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
+  {
+   "url": "https://yahoo.com/news/world/articles/hamas-weighs-response-israeli-targeted-192621240.html",
+   "title": "Hamas consults Palestinian factions on a response to Israeli targeted killings in Gaza",
+   "title_key": "1d072b9498121dd9",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/utj-rabbis-said-to-give-go-ahead-to-launching-official-talks-with-eisenkot",
+   "title": "Yashar and UTJ reported to agree on key principles of a Haredi draft law",
+   "title_key": "a44b1eb9e29b5780",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/senior-hamas-moneyman-killed-in-overnight-gaza-strike-idf-says-along-with-wife",
+   "title": "Hamas consults Palestinian factions on a response to Israeli targeted killings in Gaza",
+   "title_key": "1d072b9498121dd9",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog_entry/report-yashar-utj-reach-agreement-on-key-principles-of-haredi-draft-law",
+   "title": "Yashar and UTJ reported to agree on key principles of a Haredi draft law",
+   "title_key": "a44b1eb9e29b5780",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog_entry/report-eisenkot-vows-not-to-form-unity-government-without-liberman-golans-consent",
+   "title": "Netanyahu said to be readying an offer of the first turn in a rotation government to Eisenkot",
+   "title_key": "62d7ec05f32326ee",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog_entry/netanyahu-confirms-killing-senior-hamas-education-official-amid-wider-assassination-campaign",
+   "title": "Netanyahu confirms killing senior Hamas education official, amid wider assassination campaign",
+   "title_key": "760433942aa0bb2a",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/liveblog-november-27-2026",
+   "title": "Netanyahu said to be readying an offer of the first turn in a rotation government to Eisenkot",
+   "title_key": "62d7ec05f32326ee",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://timesofisrael.com/eisenkot-edges-closer-to-government-as-his-party-announces-coalition-deal-with-democrats",
+   "title": "Eisenkot accuses Likud of stalling coalition talks",
+   "title_key": "27a7668f91944aa2",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://jpost.com/israel-news/defense-news/article-916264",
+   "title": "Hamas consults Palestinian factions on a response to Israeli targeted killings in Gaza",
+   "title_key": "1d072b9498121dd9",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://jpost.com/israel-news/article-916132",
+   "title": "Shin Bet says the number of Jewish participants in attacks on Palestinians has doubled to about 600",
+   "title_key": "f5ca4ec1cfa679bd",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://jewishnews.co.uk/pro-palestinian-protesters-target-scottish-synagogue-over-aliyah-event",
+   "title": "Scottish Jewish bodies call the police response to a protest outside Giffnock synagogue inadequate",
+   "title_key": "dd46ae6af71f8009",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://i24news.tv/en",
+   "title": "Ra'am's Mansour Abbas reported set to recognise Hamas as a terror group",
+   "title_key": "cfff3edafcf1ba9e",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
+   "title": "Eisenkot accuses Likud of stalling coalition talks",
+   "title_key": "27a7668f91944aa2",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://arabamericannews.com/2026/11/27/middle-east-roundup-israeli-strikes-on-lebanon-and-gaza-saudi-houthi-fighting-and-u-s-iran-tensions",
+   "title": "Israeli strikes reported in southern and eastern Lebanon as Aoun calls for withdrawal",
+   "title_key": "7b57573ffa0daee6",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks",
+   "title": "Eisenkot accuses Likud of stalling coalition talks",
+   "title_key": "27a7668f91944aa2",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks",
+   "title": "Australia sanctions two men over the Iran-linked 2024 arson attacks on Adass Israel Synagogue and a Sydney restaurant",
+   "title_key": "1ef5b4f69a33300b",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "url": "https://abc.net.au/news/2026-11-27/two-men-sanctioned-over-iran-backed-antisemitic-arson-attacks/107435226",
+   "title": "Australia sanctions two men over the Iran-linked 2024 arson attacks on Adass Israel Synagogue and a Sydney restaurant",
+   "title_key": "1ef5b4f69a33300b",
+   "source": "",
+   "first_seen": "2026-11-28"
+  },
   {
    "url": "https://usnews.com/news/world/articles/2026-11-26/settlers-smash-foundations-of-palestinian-familys-homes-in-west-bank",
    "title": "Settlers smash foundations of a Palestinian family's homes in Jaloud",
